@@ -1,0 +1,4449 @@
+Voltaje: 3.89
+Corriente: 1.634
+Temperatura A: 23.09
+Temperatura B: 23.22
+Voltaje: 3.88
+Corriente: 1.635
+Temperatura A: 23.18
+Temperatura B: 23.31
+Voltaje: 3.88
+Corriente: 1.629
+Temperatura A: 23.17
+Temperatura B: 23.14
+Voltaje: 3.87
+Corriente: 1.627
+Temperatura A: 23.29
+Temperatura B: 23.41
+Voltaje: 3.86
+Corriente: 1.640
+Temperatura A: 23.20
+Temperatura B: 23.38
+Voltaje: 3.86
+Corriente: 1.643
+Temperatura A: 23.19
+Temperatura B: 23.31
+Voltaje: 3.86
+Corriente: 1.642
+Temperatura A: 23.47
+Temperatura B: 23.42
+Voltaje: 3.86
+Corriente: 1.639
+Temperatura A: 23.40
+Temperatura B: 23.33
+Voltaje: 3.85
+Corriente: 1.637
+Temperatura A: 23.39
+Temperatura B: 23.49
+Voltaje: 3.85
+Corriente: 1.628
+Temperatura A: 23.43
+Temperatura B: 23.46
+Voltaje: 3.85
+Corriente: 1.631
+Temperatura A: 23.22
+Temperatura B: 23.56
+Voltaje: 3.85
+Corriente: 1.648
+Temperatura A: 23.22
+Temperatura B: 23.48
+Voltaje: 3.84
+Corriente: 1.646
+Temperatura A: 23.32
+Temperatura B: 23.46
+Voltaje: 3.84
+Corriente: 1.632
+Temperatura A: 23.31
+Temperatura B: 23.44
+Voltaje: 3.84
+Corriente: 1.636
+Temperatura A: 23.40
+Temperatura B: 23.46
+Voltaje: 3.84
+Corriente: 1.646
+Temperatura A: 23.44
+Temperatura B: 23.68
+Voltaje: 3.84
+Corriente: 1.630
+Temperatura A: 23.59
+Temperatura B: 23.62
+Voltaje: 3.83
+Corriente: 1.628
+Temperatura A: 23.66
+Temperatura B: 23.62
+Voltaje: 3.83
+Corriente: 1.630
+Temperatura A: 23.72
+Temperatura B: 23.78
+Voltaje: 3.83
+Corriente: 1.637
+Temperatura A: 23.51
+Temperatura B: 23.84
+Voltaje: 3.83
+Corriente: 1.621
+Temperatura A: 23.70
+Temperatura B: 23.87
+Voltaje: 3.83
+Corriente: 1.639
+Temperatura A: 23.64
+Temperatura B: 23.76
+Voltaje: 3.83
+Corriente: 1.635
+Temperatura A: 23.74
+Temperatura B: 23.84
+Voltaje: 3.83
+Corriente: 1.645
+Temperatura A: 23.72
+Temperatura B: 23.69
+Voltaje: 3.82
+Corriente: 1.642
+Temperatura A: 23.66
+Temperatura B: 23.87
+Voltaje: 3.82
+Corriente: 1.641
+Temperatura A: 23.76
+Temperatura B: 24.06
+Voltaje: 3.82
+Corriente: 1.651
+Temperatura A: 23.73
+Temperatura B: 23.90
+Voltaje: 3.82
+Corriente: 1.644
+Temperatura A: 23.64
+Temperatura B: 24.03
+Voltaje: 3.82
+Corriente: 1.647
+Temperatura A: 23.82
+Temperatura B: 23.86
+Voltaje: 3.82
+Corriente: 1.642
+Temperatura A: 23.77
+Temperatura B: 23.95
+Voltaje: 3.82
+Corriente: 1.648
+Temperatura A: 23.80
+Temperatura B: 23.95
+Voltaje: 3.82
+Corriente: 1.640
+Temperatura A: 23.91
+Temperatura B: 24.06
+Voltaje: 3.82
+Corriente: 1.641
+Temperatura A: 23.80
+Temperatura B: 24.00
+Voltaje: 3.82
+Corriente: 1.644
+Temperatura A: 23.71
+Temperatura B: 23.91
+Voltaje: 3.82
+Corriente: 1.634
+Temperatura A: 23.88
+Temperatura B: 24.11
+Voltaje: 3.81
+Corriente: 1.632
+Temperatura A: 23.94
+Temperatura B: 24.21
+Voltaje: 3.81
+Corriente: 1.645
+Temperatura A: 23.91
+Temperatura B: 24.12
+Voltaje: 3.81
+Corriente: 1.630
+Temperatura A: 23.78
+Temperatura B: 24.17
+Voltaje: 3.81
+Corriente: 1.640
+Temperatura A: 24.12
+Temperatura B: 24.24
+Voltaje: 3.81
+Corriente: 1.651
+Temperatura A: 24.04
+Temperatura B: 24.17
+Voltaje: 3.81
+Corriente: 1.644
+Temperatura A: 23.97
+Temperatura B: 24.14
+Voltaje: 3.80
+Corriente: 1.629
+Temperatura A: 24.03
+Temperatura B: 24.31
+Voltaje: 3.81
+Corriente: 1.644
+Temperatura A: 24.05
+Temperatura B: 24.21
+Voltaje: 3.80
+Corriente: 1.644
+Temperatura A: 24.06
+Temperatura B: 24.51
+Voltaje: 3.80
+Corriente: 1.639
+Temperatura A: 24.07
+Temperatura B: 24.30
+Voltaje: 3.80
+Corriente: 1.626
+Temperatura A: 23.97
+Temperatura B: 24.39
+Voltaje: 3.80
+Corriente: 1.638
+Temperatura A: 24.09
+Temperatura B: 24.32
+Voltaje: 3.80
+Corriente: 1.635
+Temperatura A: 24.19
+Temperatura B: 24.36
+Voltaje: 3.80
+Corriente: 1.630
+Temperatura A: 24.14
+Temperatura B: 24.48
+Voltaje: 3.80
+Corriente: 1.642
+Temperatura A: 24.06
+Temperatura B: 24.59
+Voltaje: 3.80
+Corriente: 1.616
+Temperatura A: 24.26
+Temperatura B: 24.48
+Voltaje: 3.80
+Corriente: 1.634
+Temperatura A: 24.32
+Temperatura B: 24.57
+Voltaje: 3.79
+Corriente: 1.632
+Temperatura A: 24.28
+Temperatura B: 24.51
+Voltaje: 3.79
+Corriente: 1.639
+Temperatura A: 24.19
+Temperatura B: 24.68
+Voltaje: 3.79
+Corriente: 1.645
+Temperatura A: 24.25
+Temperatura B: 24.56
+Voltaje: 3.79
+Corriente: 1.636
+Temperatura A: 24.14
+Temperatura B: 24.65
+Voltaje: 3.79
+Corriente: 1.637
+Temperatura A: 24.27
+Temperatura B: 24.64
+Voltaje: 3.79
+Corriente: 1.625
+Temperatura A: 24.37
+Temperatura B: 24.73
+Voltaje: 3.79
+Corriente: 1.623
+Temperatura A: 24.32
+Temperatura B: 24.72
+Voltaje: 3.79
+Corriente: 1.609
+Temperatura A: 24.36
+Temperatura B: 24.83
+Voltaje: 3.79
+Corriente: 1.630
+Temperatura A: 24.29
+Temperatura B: 24.81
+Voltaje: 3.78
+Corriente: 1.613
+Temperatura A: 24.41
+Temperatura B: 24.79
+Voltaje: 3.78
+Corriente: 1.625
+Temperatura A: 24.38
+Temperatura B: 24.86
+Voltaje: 3.78
+Corriente: 1.629
+Temperatura A: 24.30
+Temperatura B: 24.80
+Voltaje: 3.78
+Corriente: 1.630
+Temperatura A: 24.33
+Temperatura B: 24.78
+Voltaje: 3.78
+Corriente: 1.620
+Temperatura A: 24.50
+Temperatura B: 25.00
+Voltaje: 3.78
+Corriente: 1.621
+Temperatura A: 24.44
+Temperatura B: 24.91
+Voltaje: 3.78
+Corriente: 1.631
+Temperatura A: 24.41
+Temperatura B: 25.14
+Voltaje: 3.78
+Corriente: 1.637
+Temperatura A: 24.43
+Temperatura B: 25.08
+Voltaje: 3.78
+Corriente: 1.636
+Temperatura A: 24.56
+Temperatura B: 25.05
+Voltaje: 3.77
+Corriente: 1.630
+Temperatura A: 24.86
+Temperatura B: 25.20
+Voltaje: 3.77
+Corriente: 1.624
+Temperatura A: 24.87
+Temperatura B: 25.25
+Voltaje: 3.77
+Corriente: 1.630
+Temperatura A: 24.81
+Temperatura B: 25.26
+Voltaje: 3.77
+Corriente: 1.624
+Temperatura A: 25.03
+Temperatura B: 25.28
+Voltaje: 3.77
+Corriente: 1.635
+Temperatura A: 24.89
+Temperatura B: 25.24
+Voltaje: 3.77
+Corriente: 1.640
+Temperatura A: 25.02
+Temperatura B: 25.28
+Voltaje: 3.77
+Corriente: 1.625
+Temperatura A: 24.94
+Temperatura B: 25.33
+Voltaje: 3.77
+Corriente: 1.636
+Temperatura A: 25.01
+Temperatura B: 25.36
+Voltaje: 3.77
+Corriente: 1.627
+Temperatura A: 24.86
+Temperatura B: 25.38
+Voltaje: 3.77
+Corriente: 1.646
+Temperatura A: 25.05
+Temperatura B: 25.38
+Voltaje: 3.76
+Corriente: 1.636
+Temperatura A: 25.03
+Temperatura B: 25.43
+Voltaje: 3.76
+Corriente: 1.621
+Temperatura A: 25.02
+Temperatura B: 25.40
+Voltaje: 3.76
+Corriente: 1.628
+Temperatura A: 25.09
+Temperatura B: 25.52
+Voltaje: 3.76
+Corriente: 1.635
+Temperatura A: 25.04
+Temperatura B: 25.39
+Voltaje: 3.76
+Corriente: 1.623
+Temperatura A: 25.17
+Temperatura B: 25.35
+Voltaje: 3.76
+Corriente: 1.624
+Temperatura A: 24.98
+Temperatura B: 25.41
+Voltaje: 3.76
+Corriente: 1.628
+Temperatura A: 25.17
+Temperatura B: 25.39
+Voltaje: 3.76
+Corriente: 1.626
+Temperatura A: 25.16
+Temperatura B: 25.36
+Voltaje: 3.76
+Corriente: 1.621
+Temperatura A: 25.08
+Temperatura B: 25.40
+Voltaje: 3.76
+Corriente: 1.635
+Temperatura A: 25.10
+Temperatura B: 25.31
+Voltaje: 3.76
+Corriente: 1.629
+Temperatura A: 25.20
+Temperatura B: 25.47
+Voltaje: 3.75
+Corriente: 1.621
+Temperatura A: 25.06
+Temperatura B: 25.51
+Voltaje: 3.75
+Corriente: 1.628
+Temperatura A: 25.13
+Temperatura B: 25.44
+Voltaje: 3.75
+Corriente: 1.628
+Temperatura A: 25.19
+Temperatura B: 25.47
+Voltaje: 3.75
+Corriente: 1.629
+Temperatura A: 25.24
+Temperatura B: 25.56
+Voltaje: 3.75
+Corriente: 1.635
+Temperatura A: 25.18
+Temperatura B: 25.47
+Voltaje: 3.75
+Corriente: 1.626
+Temperatura A: 25.05
+Temperatura B: 25.49
+Voltaje: 3.75
+Corriente: 1.628
+Temperatura A: 25.11
+Temperatura B: 25.67
+Voltaje: 3.75
+Corriente: 1.621
+Temperatura A: 25.22
+Temperatura B: 25.58
+Voltaje: 3.75
+Corriente: 1.631
+Temperatura A: 25.13
+Temperatura B: 25.59
+Voltaje: 3.75
+Corriente: 1.633
+Temperatura A: 25.20
+Temperatura B: 25.51
+Voltaje: 3.74
+Corriente: 1.618
+Temperatura A: 25.18
+Temperatura B: 25.47
+Voltaje: 3.74
+Corriente: 1.630
+Temperatura A: 25.31
+Temperatura B: 25.59
+Voltaje: 3.74
+Corriente: 1.622
+Temperatura A: 25.22
+Temperatura B: 25.51
+Voltaje: 3.74
+Corriente: 1.630
+Temperatura A: 25.30
+Temperatura B: 25.54
+Voltaje: 3.74
+Corriente: 1.628
+Temperatura A: 25.16
+Temperatura B: 25.56
+Voltaje: 3.74
+Corriente: 1.631
+Temperatura A: 25.26
+Temperatura B: 25.62
+Voltaje: 3.74
+Corriente: 1.623
+Temperatura A: 25.28
+Temperatura B: 25.61
+Voltaje: 3.74
+Corriente: 1.633
+Temperatura A: 25.22
+Temperatura B: 25.59
+Voltaje: 3.74
+Corriente: 1.621
+Temperatura A: 25.22
+Temperatura B: 25.52
+Voltaje: 3.74
+Corriente: 1.616
+Temperatura A: 25.32
+Temperatura B: 25.46
+Voltaje: 3.74
+Corriente: 1.621
+Temperatura A: 25.29
+Temperatura B: 25.69
+Voltaje: 3.74
+Corriente: 1.635
+Temperatura A: 25.28
+Temperatura B: 25.54
+Voltaje: 3.73
+Corriente: 1.634
+Temperatura A: 25.30
+Temperatura B: 25.57
+Voltaje: 3.73
+Corriente: 1.626
+Temperatura A: 25.32
+Temperatura B: 25.53
+Voltaje: 3.73
+Corriente: 1.611
+Temperatura A: 25.33
+Temperatura B: 25.58
+Voltaje: 3.73
+Corriente: 1.635
+Temperatura A: 25.36
+Temperatura B: 25.65
+Voltaje: 3.73
+Corriente: 1.627
+Temperatura A: 25.37
+Temperatura B: 25.61
+Voltaje: 3.73
+Corriente: 1.625
+Temperatura A: 25.27
+Temperatura B: 25.70
+Voltaje: 3.73
+Corriente: 1.623
+Temperatura A: 25.39
+Temperatura B: 25.60
+Voltaje: 3.73
+Corriente: 1.629
+Temperatura A: 25.26
+Temperatura B: 25.61
+Voltaje: 3.73
+Corriente: 1.635
+Temperatura A: 25.24
+Temperatura B: 25.64
+Voltaje: 3.73
+Corriente: 1.629
+Temperatura A: 25.32
+Temperatura B: 25.67
+Voltaje: 3.72
+Corriente: 1.614
+Temperatura A: 25.42
+Temperatura B: 25.62
+Voltaje: 3.72
+Corriente: 1.628
+Temperatura A: 25.46
+Temperatura B: 25.73
+Voltaje: 3.72
+Corriente: 1.611
+Temperatura A: 25.33
+Temperatura B: 25.68
+Voltaje: 3.72
+Corriente: 1.618
+Temperatura A: 25.35
+Temperatura B: 25.66
+Voltaje: 3.72
+Corriente: 1.613
+Temperatura A: 25.39
+Temperatura B: 25.79
+Voltaje: 3.72
+Corriente: 1.617
+Temperatura A: 25.33
+Temperatura B: 25.67
+Voltaje: 3.72
+Corriente: 1.623
+Temperatura A: 25.47
+Temperatura B: 25.70
+Voltaje: 3.72
+Corriente: 1.621
+Temperatura A: 25.43
+Temperatura B: 25.76
+Voltaje: 3.72
+Corriente: 1.611
+Temperatura A: 25.44
+Temperatura B: 25.85
+Voltaje: 3.72
+Corriente: 1.622
+Temperatura A: 25.40
+Temperatura B: 25.65
+Voltaje: 3.71
+Corriente: 1.617
+Temperatura A: 25.39
+Temperatura B: 25.79
+Voltaje: 3.72
+Corriente: 1.624
+Temperatura A: 25.45
+Temperatura B: 25.73
+Voltaje: 3.72
+Corriente: 1.628
+Temperatura A: 25.49
+Temperatura B: 25.78
+Voltaje: 3.71
+Corriente: 1.623
+Temperatura A: 25.42
+Temperatura B: 25.81
+Voltaje: 3.71
+Corriente: 1.616
+Temperatura A: 25.53
+Temperatura B: 25.80
+Voltaje: 3.71
+Corriente: 1.612
+Temperatura A: 25.46
+Temperatura B: 25.80
+Voltaje: 3.71
+Corriente: 1.626
+Temperatura A: 25.40
+Temperatura B: 25.86
+Voltaje: 3.71
+Corriente: 1.609
+Temperatura A: 25.41
+Temperatura B: 25.80
+Voltaje: 3.71
+Corriente: 1.621
+Temperatura A: 25.53
+Temperatura B: 25.79
+Voltaje: 3.71
+Corriente: 1.624
+Temperatura A: 25.52
+Temperatura B: 25.75
+Voltaje: 3.71
+Corriente: 1.621
+Temperatura A: 25.55
+Temperatura B: 25.96
+Voltaje: 3.71
+Corriente: 1.619
+Temperatura A: 25.53
+Temperatura B: 25.85
+Voltaje: 3.70
+Corriente: 1.619
+Temperatura A: 25.53
+Temperatura B: 25.97
+Voltaje: 3.70
+Corriente: 1.614
+Temperatura A: 25.57
+Temperatura B: 26.03
+Voltaje: 3.70
+Corriente: 1.624
+Temperatura A: 25.49
+Temperatura B: 25.90
+Voltaje: 3.70
+Corriente: 1.627
+Temperatura A: 25.54
+Temperatura B: 25.87
+Voltaje: 3.70
+Corriente: 1.621
+Temperatura A: 25.43
+Temperatura B: 25.85
+Voltaje: 3.70
+Corriente: 1.631
+Temperatura A: 25.49
+Temperatura B: 25.86
+Voltaje: 3.70
+Corriente: 1.609
+Temperatura A: 25.48
+Temperatura B: 25.90
+Voltaje: 3.70
+Corriente: 1.627
+Temperatura A: 25.49
+Temperatura B: 25.97
+Voltaje: 3.70
+Corriente: 1.614
+Temperatura A: 25.54
+Temperatura B: 25.96
+Voltaje: 3.70
+Corriente: 1.616
+Temperatura A: 25.52
+Temperatura B: 26.02
+Voltaje: 3.70
+Corriente: 1.608
+Temperatura A: 25.43
+Temperatura B: 25.90
+Voltaje: 3.69
+Corriente: 1.615
+Temperatura A: 25.55
+Temperatura B: 25.91
+Voltaje: 3.69
+Corriente: 1.613
+Temperatura A: 25.53
+Temperatura B: 25.97
+Voltaje: 3.69
+Corriente: 1.609
+Temperatura A: 25.65
+Temperatura B: 25.96
+Voltaje: 3.69
+Corriente: 1.618
+Temperatura A: 25.62
+Temperatura B: 25.91
+Voltaje: 3.69
+Corriente: 1.607
+Temperatura A: 25.49
+Temperatura B: 25.93
+Voltaje: 3.69
+Corriente: 1.606
+Temperatura A: 25.48
+Temperatura B: 25.92
+Voltaje: 3.69
+Corriente: 1.614
+Temperatura A: 25.53
+Temperatura B: 25.98
+Voltaje: 3.69
+Corriente: 1.612
+Temperatura A: 25.52
+Temperatura B: 25.94
+Voltaje: 3.69
+Corriente: 1.616
+Temperatura A: 25.65
+Temperatura B: 26.01
+Voltaje: 3.68
+Corriente: 1.621
+Temperatura A: 25.55
+Temperatura B: 25.92
+Voltaje: 3.69
+Corriente: 1.616
+Temperatura A: 25.52
+Temperatura B: 26.01
+Voltaje: 3.68
+Corriente: 1.616
+Temperatura A: 25.64
+Temperatura B: 26.09
+Voltaje: 3.68
+Corriente: 1.612
+Temperatura A: 25.61
+Temperatura B: 26.07
+Voltaje: 3.68
+Corriente: 1.621
+Temperatura A: 25.49
+Temperatura B: 26.00
+Voltaje: 3.68
+Corriente: 1.618
+Temperatura A: 25.58
+Temperatura B: 26.10
+Voltaje: 3.68
+Corriente: 1.611
+Temperatura A: 25.65
+Temperatura B: 26.16
+Voltaje: 3.68
+Corriente: 1.618
+Temperatura A: 25.55
+Temperatura B: 26.00
+Voltaje: 3.68
+Corriente: 1.614
+Temperatura A: 25.55
+Temperatura B: 26.06
+Voltaje: 3.68
+Corriente: 1.614
+Temperatura A: 25.65
+Temperatura B: 25.95
+Voltaje: 3.68
+Corriente: 1.613
+Temperatura A: 25.52
+Temperatura B: 26.11
+Voltaje: 3.68
+Corriente: 1.614
+Temperatura A: 25.59
+Temperatura B: 26.12
+Voltaje: 3.67
+Corriente: 1.606
+Temperatura A: 25.70
+Temperatura B: 26.05
+Voltaje: 3.67
+Corriente: 1.611
+Temperatura A: 25.75
+Temperatura B: 26.06
+Voltaje: 3.67
+Corriente: 1.614
+Temperatura A: 25.51
+Temperatura B: 26.13
+Voltaje: 3.67
+Corriente: 1.618
+Temperatura A: 25.69
+Temperatura B: 26.07
+Voltaje: 3.67
+Corriente: 1.607
+Temperatura A: 25.61
+Temperatura B: 26.02
+Voltaje: 3.67
+Corriente: 1.611
+Temperatura A: 25.64
+Temperatura B: 26.10
+Voltaje: 3.67
+Corriente: 1.616
+Temperatura A: 25.61
+Temperatura B: 26.01
+Voltaje: 3.67
+Corriente: 1.613
+Temperatura A: 25.54
+Temperatura B: 26.14
+Voltaje: 3.67
+Corriente: 1.606
+Temperatura A: 25.66
+Temperatura B: 26.11
+Voltaje: 3.67
+Corriente: 1.608
+Temperatura A: 25.56
+Temperatura B: 26.14
+Voltaje: 3.67
+Corriente: 1.607
+Temperatura A: 25.74
+Temperatura B: 26.19
+Voltaje: 3.67
+Corriente: 1.600
+Temperatura A: 25.61
+Temperatura B: 26.08
+Voltaje: 3.67
+Corriente: 1.612
+Temperatura A: 25.60
+Temperatura B: 26.18
+Voltaje: 3.66
+Corriente: 1.608
+Temperatura A: 25.48
+Temperatura B: 26.05
+Voltaje: 3.66
+Corriente: 1.607
+Temperatura A: 25.79
+Temperatura B: 26.26
+Voltaje: 3.66
+Corriente: 1.607
+Temperatura A: 25.61
+Temperatura B: 26.09
+Voltaje: 3.66
+Corriente: 1.614
+Temperatura A: 25.70
+Temperatura B: 26.21
+Voltaje: 3.66
+Corriente: 1.602
+Temperatura A: 25.60
+Temperatura B: 26.21
+Voltaje: 3.66
+Corriente: 1.612
+Temperatura A: 25.63
+Temperatura B: 26.19
+Voltaje: 3.66
+Corriente: 1.618
+Temperatura A: 25.66
+Temperatura B: 26.19
+Voltaje: 3.66
+Corriente: 1.608
+Temperatura A: 25.61
+Temperatura B: 26.13
+Voltaje: 3.66
+Corriente: 1.606
+Temperatura A: 25.57
+Temperatura B: 26.16
+Voltaje: 3.65
+Corriente: 1.609
+Temperatura A: 25.75
+Temperatura B: 26.23
+Voltaje: 3.66
+Corriente: 1.597
+Temperatura A: 25.64
+Temperatura B: 26.25
+Voltaje: 3.66
+Corriente: 1.609
+Temperatura A: 25.59
+Temperatura B: 26.24
+Voltaje: 3.65
+Corriente: 1.608
+Temperatura A: 25.70
+Temperatura B: 26.11
+Voltaje: 3.65
+Corriente: 1.600
+Temperatura A: 25.71
+Temperatura B: 26.30
+Voltaje: 3.65
+Corriente: 1.614
+Temperatura A: 25.64
+Temperatura B: 26.26
+Voltaje: 3.65
+Corriente: 1.595
+Temperatura A: 25.57
+Temperatura B: 26.38
+Voltaje: 3.65
+Corriente: 1.602
+Temperatura A: 25.69
+Temperatura B: 26.29
+Voltaje: 3.65
+Corriente: 1.601
+Temperatura A: 25.71
+Temperatura B: 26.25
+Voltaje: 3.65
+Corriente: 1.601
+Temperatura A: 25.77
+Temperatura B: 26.40
+Voltaje: 3.65
+Corriente: 1.611
+Temperatura A: 25.76
+Temperatura B: 26.45
+Voltaje: 3.65
+Corriente: 1.604
+Temperatura A: 25.77
+Temperatura B: 26.33
+Voltaje: 3.64
+Corriente: 1.621
+Temperatura A: 25.78
+Temperatura B: 26.48
+Voltaje: 3.64
+Corriente: 1.616
+Temperatura A: 25.80
+Temperatura B: 26.39
+Voltaje: 3.64
+Corriente: 1.606
+Temperatura A: 25.74
+Temperatura B: 26.30
+Voltaje: 3.64
+Corriente: 1.613
+Temperatura A: 25.83
+Temperatura B: 26.33
+Voltaje: 3.64
+Corriente: 1.626
+Temperatura A: 25.87
+Temperatura B: 26.37
+Voltaje: 3.64
+Corriente: 1.610
+Temperatura A: 25.91
+Temperatura B: 26.43
+Voltaje: 3.64
+Corriente: 1.613
+Temperatura A: 25.76
+Temperatura B: 26.45
+Voltaje: 3.64
+Corriente: 1.619
+Temperatura A: 25.76
+Temperatura B: 26.54
+Voltaje: 3.64
+Corriente: 1.609
+Temperatura A: 25.80
+Temperatura B: 26.46
+Voltaje: 3.64
+Corriente: 1.610
+Temperatura A: 25.67
+Temperatura B: 26.49
+Voltaje: 3.64
+Corriente: 1.609
+Temperatura A: 25.77
+Temperatura B: 26.65
+Voltaje: 3.64
+Corriente: 1.602
+Temperatura A: 25.85
+Temperatura B: 26.50
+Voltaje: 3.64
+Corriente: 1.618
+Temperatura A: 25.84
+Temperatura B: 26.50
+Voltaje: 3.63
+Corriente: 1.603
+Temperatura A: 25.80
+Temperatura B: 26.66
+Voltaje: 3.64
+Corriente: 1.602
+Temperatura A: 25.83
+Temperatura B: 26.65
+Voltaje: 3.63
+Corriente: 1.604
+Temperatura A: 25.94
+Temperatura B: 26.63
+Voltaje: 3.63
+Corriente: 1.594
+Temperatura A: 25.93
+Temperatura B: 26.55
+Voltaje: 3.63
+Corriente: 1.600
+Temperatura A: 25.96
+Temperatura B: 26.63
+Voltaje: 3.63
+Corriente: 1.600
+Temperatura A: 25.89
+Temperatura B: 26.52
+Voltaje: 3.63
+Corriente: 1.596
+Temperatura A: 25.87
+Temperatura B: 26.59
+Voltaje: 3.63
+Corriente: 1.592
+Temperatura A: 25.87
+Temperatura B: 26.72
+Voltaje: 3.63
+Corriente: 1.602
+Temperatura A: 25.97
+Temperatura B: 26.59
+Voltaje: 3.63
+Corriente: 1.602
+Temperatura A: 25.87
+Temperatura B: 26.72
+Voltaje: 3.63
+Corriente: 1.586
+Temperatura A: 25.87
+Temperatura B: 26.62
+Voltaje: 3.63
+Corriente: 1.591
+Temperatura A: 25.97
+Temperatura B: 26.71
+Voltaje: 3.62
+Corriente: 1.611
+Temperatura A: 25.98
+Temperatura B: 26.69
+Voltaje: 3.62
+Corriente: 1.591
+Temperatura A: 25.89
+Temperatura B: 26.47
+Voltaje: 3.62
+Corriente: 1.604
+Temperatura A: 25.93
+Temperatura B: 26.86
+Voltaje: 3.62
+Corriente: 1.595
+Temperatura A: 25.97
+Temperatura B: 26.73
+Voltaje: 3.62
+Corriente: 1.592
+Temperatura A: 25.87
+Temperatura B: 26.79
+Voltaje: 3.62
+Corriente: 1.598
+Temperatura A: 26.02
+Temperatura B: 26.83
+Voltaje: 3.62
+Corriente: 1.588
+Temperatura A: 26.00
+Temperatura B: 26.77
+Voltaje: 3.62
+Corriente: 1.606
+Temperatura A: 25.98
+Temperatura B: 26.79
+Voltaje: 3.62
+Corriente: 1.605
+Temperatura A: 26.04
+Temperatura B: 26.86
+Voltaje: 3.62
+Corriente: 1.610
+Temperatura A: 26.10
+Temperatura B: 26.87
+Voltaje: 3.62
+Corriente: 1.604
+Temperatura A: 25.94
+Temperatura B: 26.95
+Voltaje: 3.62
+Corriente: 1.600
+Temperatura A: 26.22
+Temperatura B: 26.89
+Voltaje: 3.61
+Corriente: 1.594
+Temperatura A: 26.09
+Temperatura B: 26.85
+Voltaje: 3.61
+Corriente: 1.595
+Temperatura A: 26.15
+Temperatura B: 26.86
+Voltaje: 3.61
+Corriente: 1.600
+Temperatura A: 26.12
+Temperatura B: 26.96
+Voltaje: 3.61
+Corriente: 1.605
+Temperatura A: 26.23
+Temperatura B: 27.02
+Voltaje: 3.61
+Corriente: 1.608
+Temperatura A: 26.00
+Temperatura B: 27.09
+Voltaje: 3.61
+Corriente: 1.603
+Temperatura A: 26.15
+Temperatura B: 26.90
+Voltaje: 3.61
+Corriente: 1.598
+Temperatura A: 26.14
+Temperatura B: 26.93
+Voltaje: 3.61
+Corriente: 1.598
+Temperatura A: 26.22
+Temperatura B: 27.05
+Voltaje: 3.61
+Corriente: 1.614
+Temperatura A: 26.09
+Temperatura B: 26.92
+Voltaje: 3.61
+Corriente: 1.607
+Temperatura A: 26.12
+Temperatura B: 26.91
+Voltaje: 3.60
+Corriente: 1.611
+Temperatura A: 26.20
+Temperatura B: 26.81
+Voltaje: 3.60
+Corriente: 1.606
+Temperatura A: 26.13
+Temperatura B: 26.88
+Voltaje: 3.60
+Corriente: 1.597
+Temperatura A: 26.23
+Temperatura B: 26.77
+Voltaje: 3.60
+Corriente: 1.612
+Temperatura A: 26.17
+Temperatura B: 26.84
+Voltaje: 3.60
+Corriente: 1.595
+Temperatura A: 26.14
+Temperatura B: 26.87
+Voltaje: 3.60
+Corriente: 1.601
+Temperatura A: 26.22
+Temperatura B: 27.00
+Voltaje: 3.60
+Corriente: 1.606
+Temperatura A: 26.21
+Temperatura B: 26.77
+Voltaje: 3.60
+Corriente: 1.602
+Temperatura A: 26.10
+Temperatura B: 26.76
+Voltaje: 3.60
+Corriente: 1.602
+Temperatura A: 26.23
+Temperatura B: 26.84
+Voltaje: 3.60
+Corriente: 1.592
+Temperatura A: 26.21
+Temperatura B: 26.88
+Voltaje: 3.60
+Corriente: 1.614
+Temperatura A: 26.21
+Temperatura B: 26.83
+Voltaje: 3.60
+Corriente: 1.601
+Temperatura A: 26.21
+Temperatura B: 26.88
+Voltaje: 3.59
+Corriente: 1.615
+Temperatura A: 26.00
+Temperatura B: 26.92
+Voltaje: 3.59
+Corriente: 1.589
+Temperatura A: 26.14
+Temperatura B: 27.02
+Voltaje: 3.59
+Corriente: 1.600
+Temperatura A: 26.06
+Temperatura B: 26.74
+Voltaje: 3.59
+Corriente: 1.596
+Temperatura A: 26.28
+Temperatura B: 26.86
+Voltaje: 3.59
+Corriente: 1.608
+Temperatura A: 26.15
+Temperatura B: 26.95
+Voltaje: 3.59
+Corriente: 1.603
+Temperatura A: 26.18
+Temperatura B: 26.84
+Voltaje: 3.59
+Corriente: 1.582
+Temperatura A: 26.12
+Temperatura B: 26.90
+Voltaje: 3.59
+Corriente: 1.595
+Temperatura A: 26.16
+Temperatura B: 26.92
+Voltaje: 3.59
+Corriente: 1.595
+Temperatura A: 26.17
+Temperatura B: 26.96
+Voltaje: 3.59
+Corriente: 1.593
+Temperatura A: 26.22
+Temperatura B: 26.85
+Voltaje: 3.59
+Corriente: 1.608
+Temperatura A: 26.16
+Temperatura B: 26.83
+Voltaje: 3.58
+Corriente: 1.607
+Temperatura A: 26.12
+Temperatura B: 26.91
+Voltaje: 3.58
+Corriente: 1.610
+Temperatura A: 26.16
+Temperatura B: 26.96
+Voltaje: 3.58
+Corriente: 1.591
+Temperatura A: 26.30
+Temperatura B: 26.88
+Voltaje: 3.58
+Corriente: 1.612
+Temperatura A: 26.22
+Temperatura B: 26.96
+Voltaje: 3.58
+Corriente: 1.596
+Temperatura A: 26.15
+Temperatura B: 27.00
+Voltaje: 3.58
+Corriente: 1.599
+Temperatura A: 26.23
+Temperatura B: 26.98
+Voltaje: 3.58
+Corriente: 1.607
+Temperatura A: 26.28
+Temperatura B: 26.76
+Voltaje: 3.58
+Corriente: 1.597
+Temperatura A: 26.27
+Temperatura B: 26.79
+Voltaje: 3.58
+Corriente: 1.593
+Temperatura A: 26.13
+Temperatura B: 26.93
+Voltaje: 3.58
+Corriente: 1.593
+Temperatura A: 26.14
+Temperatura B: 26.91
+Voltaje: 3.58
+Corriente: 1.601
+Temperatura A: 26.23
+Temperatura B: 26.87
+Voltaje: 3.58
+Corriente: 1.600
+Temperatura A: 26.15
+Temperatura B: 26.79
+Voltaje: 3.58
+Corriente: 1.588
+Temperatura A: 26.19
+Temperatura B: 26.83
+Voltaje: 3.57
+Corriente: 1.602
+Temperatura A: 26.11
+Temperatura B: 26.87
+Voltaje: 3.57
+Corriente: 1.598
+Temperatura A: 26.05
+Temperatura B: 26.89
+Voltaje: 3.57
+Corriente: 1.599
+Temperatura A: 26.21
+Temperatura B: 26.74
+Voltaje: 3.57
+Corriente: 1.586
+Temperatura A: 26.09
+Temperatura B: 26.92
+Voltaje: 3.57
+Corriente: 1.588
+Temperatura A: 26.10
+Temperatura B: 26.76
+Voltaje: 3.57
+Corriente: 1.595
+Temperatura A: 26.00
+Temperatura B: 26.75
+Voltaje: 3.57
+Corriente: 1.594
+Temperatura A: 25.93
+Temperatura B: 26.83
+Voltaje: 3.57
+Corriente: 1.592
+Temperatura A: 26.03
+Temperatura B: 26.73
+Voltaje: 3.57
+Corriente: 1.607
+Temperatura A: 26.06
+Temperatura B: 26.88
+Voltaje: 3.57
+Corriente: 1.599
+Temperatura A: 26.00
+Temperatura B: 26.86
+Voltaje: 3.56
+Corriente: 1.588
+Temperatura A: 25.98
+Temperatura B: 26.85
+Voltaje: 3.56
+Corriente: 1.593
+Temperatura A: 26.08
+Temperatura B: 26.75
+Voltaje: 3.56
+Corriente: 1.605
+Temperatura A: 26.05
+Temperatura B: 26.74
+Voltaje: 3.56
+Corriente: 1.583
+Temperatura A: 25.97
+Temperatura B: 26.74
+Voltaje: 3.56
+Corriente: 1.584
+Temperatura A: 26.12
+Temperatura B: 26.70
+Voltaje: 3.56
+Corriente: 1.575
+Temperatura A: 26.04
+Temperatura B: 26.64
+Voltaje: 3.56
+Corriente: 1.598
+Temperatura A: 26.20
+Temperatura B: 26.86
+Voltaje: 3.56
+Corriente: 1.593
+Temperatura A: 26.01
+Temperatura B: 26.79
+Voltaje: 3.56
+Corriente: 1.591
+Temperatura A: 26.01
+Temperatura B: 26.76
+Voltaje: 3.56
+Corriente: 1.600
+Temperatura A: 26.10
+Temperatura B: 26.76
+Voltaje: 3.56
+Corriente: 1.593
+Temperatura A: 26.04
+Temperatura B: 26.74
+Voltaje: 3.56
+Corriente: 1.597
+Temperatura A: 26.01
+Temperatura B: 26.82
+Voltaje: 3.56
+Corriente: 1.602
+Temperatura A: 26.10
+Temperatura B: 26.59
+Voltaje: 3.55
+Corriente: 1.590
+Temperatura A: 26.06
+Temperatura B: 26.79
+Voltaje: 3.55
+Corriente: 1.599
+Temperatura A: 26.03
+Temperatura B: 26.76
+Voltaje: 3.55
+Corriente: 1.599
+Temperatura A: 25.97
+Temperatura B: 26.64
+Voltaje: 3.55
+Corriente: 1.596
+Temperatura A: 25.92
+Temperatura B: 26.80
+Voltaje: 3.55
+Corriente: 1.602
+Temperatura A: 26.14
+Temperatura B: 26.78
+Voltaje: 3.55
+Corriente: 1.591
+Temperatura A: 25.97
+Temperatura B: 26.83
+Voltaje: 3.55
+Corriente: 1.592
+Temperatura A: 25.98
+Temperatura B: 26.75
+Voltaje: 3.55
+Corriente: 1.598
+Temperatura A: 26.09
+Temperatura B: 26.73
+Voltaje: 3.55
+Corriente: 1.587
+Temperatura A: 26.02
+Temperatura B: 26.63
+Voltaje: 3.55
+Corriente: 1.590
+Temperatura A: 26.06
+Temperatura B: 26.77
+Voltaje: 3.54
+Corriente: 1.586
+Temperatura A: 25.89
+Temperatura B: 26.59
+Voltaje: 3.54
+Corriente: 1.584
+Temperatura A: 26.21
+Temperatura B: 26.60
+Voltaje: 3.54
+Corriente: 1.600
+Temperatura A: 25.95
+Temperatura B: 26.62
+Voltaje: 3.54
+Corriente: 1.585
+Temperatura A: 25.94
+Temperatura B: 26.67
+Voltaje: 3.54
+Corriente: 1.593
+Temperatura A: 25.85
+Temperatura B: 26.58
+Voltaje: 3.54
+Corriente: 1.585
+Temperatura A: 26.13
+Temperatura B: 26.62
+Voltaje: 3.54
+Corriente: 1.580
+Temperatura A: 26.00
+Temperatura B: 26.75
+Voltaje: 3.54
+Corriente: 1.598
+Temperatura A: 26.05
+Temperatura B: 26.69
+Voltaje: 3.54
+Corriente: 1.591
+Temperatura A: 25.90
+Temperatura B: 26.57
+Voltaje: 3.54
+Corriente: 1.598
+Temperatura A: 25.87
+Temperatura B: 26.64
+Voltaje: 3.54
+Corriente: 1.598
+Temperatura A: 25.92
+Temperatura B: 26.69
+Voltaje: 3.54
+Corriente: 1.595
+Temperatura A: 25.88
+Temperatura B: 26.76
+Voltaje: 3.53
+Corriente: 1.578
+Temperatura A: 26.02
+Temperatura B: 26.60
+Voltaje: 3.53
+Corriente: 1.587
+Temperatura A: 25.91
+Temperatura B: 26.62
+Voltaje: 3.53
+Corriente: 1.590
+Temperatura A: 25.95
+Temperatura B: 26.66
+Voltaje: 3.53
+Corriente: 1.585
+Temperatura A: 25.83
+Temperatura B: 26.58
+Voltaje: 3.53
+Corriente: 1.592
+Temperatura A: 25.96
+Temperatura B: 26.63
+Voltaje: 3.53
+Corriente: 1.589
+Temperatura A: 25.88
+Temperatura B: 26.58
+Voltaje: 3.53
+Corriente: 1.584
+Temperatura A: 25.93
+Temperatura B: 26.64
+Voltaje: 3.53
+Corriente: 1.591
+Temperatura A: 25.91
+Temperatura B: 26.60
+Voltaje: 3.53
+Corriente: 1.580
+Temperatura A: 25.91
+Temperatura B: 26.50
+Voltaje: 3.52
+Corriente: 1.593
+Temperatura A: 25.92
+Temperatura B: 26.55
+Voltaje: 3.53
+Corriente: 1.587
+Temperatura A: 25.84
+Temperatura B: 26.69
+Voltaje: 3.52
+Corriente: 1.587
+Temperatura A: 25.87
+Temperatura B: 26.71
+Voltaje: 3.52
+Corriente: 1.585
+Temperatura A: 26.04
+Temperatura B: 26.61
+Voltaje: 3.52
+Corriente: 1.585
+Temperatura A: 25.98
+Temperatura B: 26.59
+Voltaje: 3.52
+Corriente: 1.584
+Temperatura A: 25.91
+Temperatura B: 26.47
+Voltaje: 3.52
+Corriente: 1.582
+Temperatura A: 26.01
+Temperatura B: 26.57
+Voltaje: 3.52
+Corriente: 1.583
+Temperatura A: 25.94
+Temperatura B: 26.61
+Voltaje: 3.52
+Corriente: 1.587
+Temperatura A: 26.01
+Temperatura B: 26.40
+Voltaje: 3.52
+Corriente: 1.592
+Temperatura A: 25.85
+Temperatura B: 26.52
+Voltaje: 3.52
+Corriente: 1.581
+Temperatura A: 25.99
+Temperatura B: 26.58
+Voltaje: 3.52
+Corriente: 1.588
+Temperatura A: 25.87
+Temperatura B: 26.52
+Voltaje: 3.52
+Corriente: 1.593
+Temperatura A: 25.96
+Temperatura B: 26.70
+Voltaje: 3.51
+Corriente: 1.584
+Temperatura A: 25.95
+Temperatura B: 26.59
+Voltaje: 3.52
+Corriente: 1.593
+Temperatura A: 25.94
+Temperatura B: 26.48
+Voltaje: 3.51
+Corriente: 1.585
+Temperatura A: 25.89
+Temperatura B: 26.58
+Voltaje: 3.51
+Corriente: 1.600
+Temperatura A: 25.94
+Temperatura B: 26.63
+Voltaje: 3.51
+Corriente: 1.594
+Temperatura A: 26.06
+Temperatura B: 26.48
+Voltaje: 3.51
+Corriente: 1.595
+Temperatura A: 25.89
+Temperatura B: 26.59
+Voltaje: 3.51
+Corriente: 1.573
+Temperatura A: 26.11
+Temperatura B: 26.53
+Voltaje: 3.51
+Corriente: 1.586
+Temperatura A: 25.92
+Temperatura B: 26.59
+Voltaje: 3.51
+Corriente: 1.583
+Temperatura A: 25.99
+Temperatura B: 26.62
+Voltaje: 3.51
+Corriente: 1.582
+Temperatura A: 25.87
+Temperatura B: 26.61
+Voltaje: 3.51
+Corriente: 1.570
+Temperatura A: 25.91
+Temperatura B: 26.63
+Voltaje: 3.51
+Corriente: 1.594
+Temperatura A: 25.98
+Temperatura B: 26.68
+Voltaje: 3.51
+Corriente: 1.579
+Temperatura A: 26.08
+Temperatura B: 26.60
+Voltaje: 3.51
+Corriente: 1.582
+Temperatura A: 26.05
+Temperatura B: 26.63
+Voltaje: 3.50
+Corriente: 1.590
+Temperatura A: 25.99
+Temperatura B: 26.51
+Voltaje: 3.50
+Corriente: 1.579
+Temperatura A: 26.02
+Temperatura B: 26.61
+Voltaje: 3.50
+Corriente: 1.585
+Temperatura A: 25.88
+Temperatura B: 26.66
+Voltaje: 3.50
+Corriente: 1.574
+Temperatura A: 26.00
+Temperatura B: 26.67
+Voltaje: 3.50
+Corriente: 1.571
+Temperatura A: 25.83
+Temperatura B: 26.53
+Voltaje: 3.50
+Corriente: 1.575
+Temperatura A: 26.02
+Temperatura B: 26.60
+Voltaje: 3.50
+Corriente: 1.577
+Temperatura A: 25.96
+Temperatura B: 26.65
+Voltaje: 3.50
+Corriente: 1.581
+Temperatura A: 26.09
+Temperatura B: 26.71
+Voltaje: 3.50
+Corriente: 1.581
+Temperatura A: 25.89
+Temperatura B: 26.62
+Voltaje: 3.50
+Corriente: 1.563
+Temperatura A: 26.08
+Temperatura B: 26.58
+Voltaje: 3.50
+Corriente: 1.574
+Temperatura A: 26.00
+Temperatura B: 26.72
+Voltaje: 3.49
+Corriente: 1.579
+Temperatura A: 26.00
+Temperatura B: 26.67
+Voltaje: 3.49
+Corriente: 1.578
+Temperatura A: 26.03
+Temperatura B: 26.65
+Voltaje: 3.49
+Corriente: 1.589
+Temperatura A: 25.89
+Temperatura B: 26.77
+Voltaje: 3.49
+Corriente: 1.581
+Temperatura A: 25.92
+Temperatura B: 26.66
+Voltaje: 3.49
+Corriente: 1.586
+Temperatura A: 25.85
+Temperatura B: 26.60
+Voltaje: 3.49
+Corriente: 1.579
+Temperatura A: 26.08
+Temperatura B: 26.65
+Voltaje: 3.49
+Corriente: 1.587
+Temperatura A: 26.08
+Temperatura B: 26.69
+Voltaje: 3.49
+Corriente: 1.594
+Temperatura A: 26.05
+Temperatura B: 26.73
+Voltaje: 3.49
+Corriente: 1.591
+Temperatura A: 25.86
+Temperatura B: 26.85
+Voltaje: 3.49
+Corriente: 1.583
+Temperatura A: 25.94
+Temperatura B: 26.65
+Voltaje: 3.49
+Corriente: 1.585
+Temperatura A: 25.94
+Temperatura B: 26.77
+Voltaje: 3.48
+Corriente: 1.581
+Temperatura A: 26.13
+Temperatura B: 26.66
+Voltaje: 3.49
+Corriente: 1.568
+Temperatura A: 25.99
+Temperatura B: 26.62
+Voltaje: 3.48
+Corriente: 1.577
+Temperatura A: 26.10
+Temperatura B: 26.73
+Voltaje: 3.48
+Corriente: 1.584
+Temperatura A: 25.91
+Temperatura B: 26.72
+Voltaje: 3.48
+Corriente: 1.577
+Temperatura A: 26.05
+Temperatura B: 26.83
+Voltaje: 3.48
+Corriente: 1.584
+Temperatura A: 26.00
+Temperatura B: 26.69
+Voltaje: 3.48
+Corriente: 1.587
+Temperatura A: 26.06
+Temperatura B: 26.70
+Voltaje: 3.48
+Corriente: 1.576
+Temperatura A: 25.99
+Temperatura B: 26.60
+Voltaje: 3.48
+Corriente: 1.578
+Temperatura A: 25.90
+Temperatura B: 26.87
+Voltaje: 3.48
+Corriente: 1.596
+Temperatura A: 25.97
+Temperatura B: 26.69
+Voltaje: 3.48
+Corriente: 1.582
+Temperatura A: 25.91
+Temperatura B: 26.82
+Voltaje: 3.48
+Corriente: 1.594
+Temperatura A: 25.82
+Temperatura B: 26.67
+Voltaje: 3.48
+Corriente: 1.578
+Temperatura A: 26.01
+Temperatura B: 26.71
+Voltaje: 3.48
+Corriente: 1.583
+Temperatura A: 26.08
+Temperatura B: 26.70
+Voltaje: 3.48
+Corriente: 1.588
+Temperatura A: 25.93
+Temperatura B: 26.62
+Voltaje: 3.48
+Corriente: 1.589
+Temperatura A: 25.88
+Temperatura B: 26.77
+Voltaje: 3.47
+Corriente: 1.571
+Temperatura A: 25.94
+Temperatura B: 26.67
+Voltaje: 3.47
+Corriente: 1.585
+Temperatura A: 25.95
+Temperatura B: 26.66
+Voltaje: 3.47
+Corriente: 1.567
+Temperatura A: 25.90
+Temperatura B: 26.68
+Voltaje: 3.47
+Corriente: 1.572
+Temperatura A: 25.91
+Temperatura B: 26.70
+Voltaje: 3.47
+Corriente: 1.595
+Temperatura A: 26.01
+Temperatura B: 26.52
+Voltaje: 3.47
+Corriente: 1.581
+Temperatura A: 26.04
+Temperatura B: 26.60
+Voltaje: 3.47
+Corriente: 1.589
+Temperatura A: 25.93
+Temperatura B: 26.67
+Voltaje: 3.47
+Corriente: 1.584
+Temperatura A: 25.82
+Temperatura B: 26.69
+Voltaje: 3.47
+Corriente: 1.574
+Temperatura A: 25.93
+Temperatura B: 26.65
+Voltaje: 3.47
+Corriente: 1.574
+Temperatura A: 25.97
+Temperatura B: 26.72
+Voltaje: 3.47
+Corriente: 1.570
+Temperatura A: 25.98
+Temperatura B: 26.67
+Voltaje: 3.47
+Corriente: 1.575
+Temperatura A: 25.87
+Temperatura B: 26.74
+Voltaje: 3.46
+Corriente: 1.586
+Temperatura A: 25.81
+Temperatura B: 26.57
+Voltaje: 3.46
+Corriente: 1.577
+Temperatura A: 25.80
+Temperatura B: 26.64
+Voltaje: 3.46
+Corriente: 1.574
+Temperatura A: 25.86
+Temperatura B: 26.59
+Voltaje: 3.46
+Corriente: 1.577
+Temperatura A: 25.95
+Temperatura B: 26.54
+Voltaje: 3.46
+Corriente: 1.581
+Temperatura A: 25.91
+Temperatura B: 26.58
+Voltaje: 3.46
+Corriente: 1.573
+Temperatura A: 25.87
+Temperatura B: 26.60
+Voltaje: 3.46
+Corriente: 1.578
+Temperatura A: 25.83
+Temperatura B: 26.50
+Voltaje: 3.46
+Corriente: 1.574
+Temperatura A: 25.84
+Temperatura B: 26.52
+Voltaje: 3.46
+Corriente: 1.568
+Temperatura A: 25.85
+Temperatura B: 26.55
+Voltaje: 3.46
+Corriente: 1.581
+Temperatura A: 25.90
+Temperatura B: 26.46
+Voltaje: 3.46
+Corriente: 1.592
+Temperatura A: 25.77
+Temperatura B: 26.63
+Voltaje: 3.46
+Corriente: 1.569
+Temperatura A: 25.92
+Temperatura B: 26.49
+Voltaje: 3.46
+Corriente: 1.574
+Temperatura A: 25.93
+Temperatura B: 26.57
+Voltaje: 3.46
+Corriente: 1.564
+Temperatura A: 25.81
+Temperatura B: 26.40
+Voltaje: 3.45
+Corriente: 1.591
+Temperatura A: 25.87
+Temperatura B: 26.38
+Voltaje: 3.45
+Corriente: 1.585
+Temperatura A: 25.84
+Temperatura B: 26.47
+Voltaje: 3.45
+Corriente: 1.573
+Temperatura A: 25.88
+Temperatura B: 26.38
+Voltaje: 3.45
+Corriente: 1.573
+Temperatura A: 25.88
+Temperatura B: 26.49
+Voltaje: 3.45
+Corriente: 1.572
+Temperatura A: 25.94
+Temperatura B: 26.44
+Voltaje: 3.45
+Corriente: 1.582
+Temperatura A: 25.83
+Temperatura B: 26.46
+Voltaje: 3.45
+Corriente: 1.591
+Temperatura A: 25.87
+Temperatura B: 26.42
+Voltaje: 3.45
+Corriente: 1.580
+Temperatura A: 25.93
+Temperatura B: 26.48
+Voltaje: 3.45
+Corriente: 1.572
+Temperatura A: 25.87
+Temperatura B: 26.43
+Voltaje: 3.45
+Corriente: 1.581
+Temperatura A: 25.99
+Temperatura B: 26.39
+Voltaje: 3.45
+Corriente: 1.572
+Temperatura A: 25.84
+Temperatura B: 26.40
+Voltaje: 3.45
+Corriente: 1.572
+Temperatura A: 25.95
+Temperatura B: 26.37
+Voltaje: 3.45
+Corriente: 1.581
+Temperatura A: 25.89
+Temperatura B: 26.42
+Voltaje: 3.45
+Corriente: 1.576
+Temperatura A: 25.83
+Temperatura B: 26.44
+Voltaje: 3.44
+Corriente: 1.571
+Temperatura A: 25.87
+Temperatura B: 26.31
+Voltaje: 3.45
+Corriente: 1.579
+Temperatura A: 25.93
+Temperatura B: 26.32
+Voltaje: 3.44
+Corriente: 1.573
+Temperatura A: 25.68
+Temperatura B: 26.37
+Voltaje: 3.44
+Corriente: 1.563
+Temperatura A: 25.69
+Temperatura B: 26.35
+Voltaje: 3.44
+Corriente: 1.565
+Temperatura A: 25.76
+Temperatura B: 26.45
+Voltaje: 3.44
+Corriente: 1.573
+Temperatura A: 25.82
+Temperatura B: 26.41
+Voltaje: 3.44
+Corriente: 1.566
+Temperatura A: 25.90
+Temperatura B: 26.38
+Voltaje: 3.44
+Corriente: 1.567
+Temperatura A: 25.76
+Temperatura B: 26.33
+Voltaje: 3.44
+Corriente: 1.567
+Temperatura A: 25.86
+Temperatura B: 26.37
+Voltaje: 3.44
+Corriente: 1.575
+Temperatura A: 25.76
+Temperatura B: 26.26
+Voltaje: 3.44
+Corriente: 1.583
+Temperatura A: 25.86
+Temperatura B: 26.24
+Voltaje: 3.44
+Corriente: 1.579
+Temperatura A: 25.77
+Temperatura B: 26.30
+Voltaje: 3.44
+Corriente: 1.567
+Temperatura A: 25.69
+Temperatura B: 26.36
+Voltaje: 3.44
+Corriente: 1.565
+Temperatura A: 25.73
+Temperatura B: 26.28
+Voltaje: 3.43
+Corriente: 1.575
+Temperatura A: 25.78
+Temperatura B: 26.21
+Voltaje: 3.44
+Corriente: 1.569
+Temperatura A: 25.78
+Temperatura B: 26.19
+Voltaje: 3.43
+Corriente: 1.577
+Temperatura A: 25.77
+Temperatura B: 26.27
+Voltaje: 3.43
+Corriente: 1.576
+Temperatura A: 25.72
+Temperatura B: 26.18
+Voltaje: 3.43
+Corriente: 1.563
+Temperatura A: 25.84
+Temperatura B: 26.26
+Voltaje: 3.43
+Corriente: 1.559
+Temperatura A: 25.69
+Temperatura B: 26.24
+Voltaje: 3.43
+Corriente: 1.568
+Temperatura A: 25.73
+Temperatura B: 26.23
+Voltaje: 3.43
+Corriente: 1.581
+Temperatura A: 25.68
+Temperatura B: 26.28
+Voltaje: 3.43
+Corriente: 1.576
+Temperatura A: 25.64
+Temperatura B: 26.18
+Voltaje: 3.43
+Corriente: 1.572
+Temperatura A: 25.79
+Temperatura B: 26.18
+Voltaje: 3.43
+Corriente: 1.572
+Temperatura A: 25.74
+Temperatura B: 26.20
+Voltaje: 3.43
+Corriente: 1.577
+Temperatura A: 25.58
+Temperatura B: 26.33
+Voltaje: 3.43
+Corriente: 1.567
+Temperatura A: 25.76
+Temperatura B: 26.13
+Voltaje: 3.43
+Corriente: 1.579
+Temperatura A: 25.71
+Temperatura B: 26.22
+Voltaje: 3.43
+Corriente: 1.570
+Temperatura A: 25.79
+Temperatura B: 26.10
+Voltaje: 3.43
+Corriente: 1.575
+Temperatura A: 25.73
+Temperatura B: 26.30
+Voltaje: 3.43
+Corriente: 1.576
+Temperatura A: 25.61
+Temperatura B: 26.19
+Voltaje: 3.42
+Corriente: 1.574
+Temperatura A: 25.69
+Temperatura B: 26.10
+Voltaje: 3.42
+Corriente: 1.579
+Temperatura A: 25.74
+Temperatura B: 26.16
+Voltaje: 3.42
+Corriente: 1.576
+Temperatura A: 25.74
+Temperatura B: 26.19
+Voltaje: 3.42
+Corriente: 1.568
+Temperatura A: 25.64
+Temperatura B: 26.16
+Voltaje: 3.42
+Corriente: 1.570
+Temperatura A: 25.76
+Temperatura B: 26.21
+Voltaje: 3.42
+Corriente: 1.577
+Temperatura A: 25.73
+Temperatura B: 26.28
+Voltaje: 3.42
+Corriente: 1.563
+Temperatura A: 25.70
+Temperatura B: 26.14
+Voltaje: 3.42
+Corriente: 1.562
+Temperatura A: 25.67
+Temperatura B: 26.14
+Voltaje: 3.42
+Corriente: 1.574
+Temperatura A: 25.72
+Temperatura B: 26.24
+Voltaje: 3.42
+Corriente: 1.577
+Temperatura A: 25.55
+Temperatura B: 26.22
+Voltaje: 3.42
+Corriente: 1.578
+Temperatura A: 25.78
+Temperatura B: 26.09
+Voltaje: 3.42
+Corriente: 1.576
+Temperatura A: 25.63
+Temperatura B: 26.28
+Voltaje: 3.42
+Corriente: 1.563
+Temperatura A: 25.54
+Temperatura B: 26.16
+Voltaje: 3.42
+Corriente: 1.567
+Temperatura A: 25.63
+Temperatura B: 26.21
+Voltaje: 3.42
+Corriente: 1.571
+Temperatura A: 25.64
+Temperatura B: 26.20
+Voltaje: 3.42
+Corriente: 1.566
+Temperatura A: 25.58
+Temperatura B: 26.19
+Voltaje: 3.42
+Corriente: 1.571
+Temperatura A: 25.70
+Temperatura B: 26.15
+Voltaje: 3.42
+Corriente: 1.567
+Temperatura A: 25.64
+Temperatura B: 26.19
+Voltaje: 3.41
+Corriente: 1.572
+Temperatura A: 25.70
+Temperatura B: 26.33
+Voltaje: 3.41
+Corriente: 1.568
+Temperatura A: 25.73
+Temperatura B: 26.17
+Voltaje: 3.41
+Corriente: 1.575
+Temperatura A: 25.61
+Temperatura B: 26.27
+Voltaje: 3.41
+Corriente: 1.566
+Temperatura A: 25.68
+Temperatura B: 26.20
+Voltaje: 3.41
+Corriente: 1.573
+Temperatura A: 25.67
+Temperatura B: 26.20
+Voltaje: 3.41
+Corriente: 1.572
+Temperatura A: 25.64
+Temperatura B: 26.18
+Voltaje: 3.41
+Corriente: 1.573
+Temperatura A: 25.69
+Temperatura B: 26.11
+Voltaje: 3.41
+Corriente: 1.570
+Temperatura A: 25.63
+Temperatura B: 26.26
+Voltaje: 3.41
+Corriente: 1.566
+Temperatura A: 25.73
+Temperatura B: 26.28
+Voltaje: 3.41
+Corriente: 1.560
+Temperatura A: 25.70
+Temperatura B: 26.23
+Voltaje: 3.41
+Corriente: 1.579
+Temperatura A: 25.73
+Temperatura B: 26.21
+Voltaje: 3.41
+Corriente: 1.565
+Temperatura A: 25.69
+Temperatura B: 26.22
+Voltaje: 3.41
+Corriente: 1.570
+Temperatura A: 25.64
+Temperatura B: 26.27
+Voltaje: 3.41
+Corriente: 1.579
+Temperatura A: 25.70
+Temperatura B: 26.18
+Voltaje: 3.41
+Corriente: 1.565
+Temperatura A: 25.61
+Temperatura B: 25.83
+Voltaje: 3.40
+Corriente: 1.563
+Temperatura A: 25.71
+Temperatura B: 26.14
+Voltaje: 3.40
+Corriente: 1.575
+Temperatura A: 25.49
+Temperatura B: 26.20
+Voltaje: 3.40
+Corriente: 1.568
+Temperatura A: 25.59
+Temperatura B: 26.15
+Voltaje: 3.40
+Corriente: 1.556
+Temperatura A: 25.65
+Temperatura B: 26.18
+Voltaje: 3.40
+Corriente: 1.556
+Temperatura A: 25.64
+Temperatura B: 26.22
+Voltaje: 3.40
+Corriente: 1.565
+Temperatura A: 25.68
+Temperatura B: 26.10
+Voltaje: 3.40
+Corriente: 1.575
+Temperatura A: 25.75
+Temperatura B: 26.27
+Voltaje: 3.40
+Corriente: 1.579
+Temperatura A: 25.64
+Temperatura B: 26.33
+Voltaje: 3.40
+Corriente: 1.574
+Temperatura A: 25.66
+Temperatura B: 26.25
+Voltaje: 3.40
+Corriente: 1.570
+Temperatura A: 25.71
+Temperatura B: 26.25
+Voltaje: 3.40
+Corriente: 1.581
+Temperatura A: 25.71
+Temperatura B: 26.31
+Voltaje: 3.40
+Corriente: 1.572
+Temperatura A: 25.68
+Temperatura B: 26.24
+Voltaje: 3.40
+Corriente: 1.568
+Temperatura A: 25.73
+Temperatura B: 26.28
+Voltaje: 3.40
+Corriente: 1.569
+Temperatura A: 25.66
+Temperatura B: 26.20
+Voltaje: 3.40
+Corriente: 1.563
+Temperatura A: 25.64
+Temperatura B: 26.31
+Voltaje: 3.40
+Corriente: 1.577
+Temperatura A: 25.67
+Temperatura B: 26.24
+Voltaje: 3.40
+Corriente: 1.563
+Temperatura A: 25.59
+Temperatura B: 26.20
+Voltaje: 3.40
+Corriente: 1.559
+Temperatura A: 25.88
+Temperatura B: 26.36
+Voltaje: 3.40
+Corriente: 1.560
+Temperatura A: 25.68
+Temperatura B: 26.17
+Voltaje: 3.40
+Corriente: 1.580
+Temperatura A: 25.74
+Temperatura B: 26.16
+Voltaje: 3.40
+Corriente: 1.565
+Temperatura A: 25.55
+Temperatura B: 26.23
+Voltaje: 3.40
+Corriente: 1.571
+Temperatura A: 25.63
+Temperatura B: 26.24
+Voltaje: 3.39
+Corriente: 1.563
+Temperatura A: 25.60
+Temperatura B: 26.24
+Voltaje: 3.39
+Corriente: 1.563
+Temperatura A: 25.76
+Temperatura B: 26.16
+Voltaje: 3.39
+Corriente: 1.562
+Temperatura A: 25.54
+Temperatura B: 26.34
+Voltaje: 3.39
+Corriente: 1.566
+Temperatura A: 25.54
+Temperatura B: 26.27
+Voltaje: 3.39
+Corriente: 1.574
+Temperatura A: 25.65
+Temperatura B: 26.13
+Voltaje: 3.39
+Corriente: 1.574
+Temperatura A: 25.71
+Temperatura B: 26.21
+Voltaje: 3.39
+Corriente: 1.567
+Temperatura A: 25.62
+Temperatura B: 26.20
+Voltaje: 3.39
+Corriente: 1.566
+Temperatura A: 25.64
+Temperatura B: 26.19
+Voltaje: 3.39
+Corriente: 1.570
+Temperatura A: 25.89
+Temperatura B: 26.20
+Voltaje: 3.39
+Corriente: 1.561
+Temperatura A: 25.68
+Temperatura B: 26.18
+Voltaje: 3.39
+Corriente: 1.563
+Temperatura A: 25.85
+Temperatura B: 26.25
+Voltaje: 3.39
+Corriente: 1.571
+Temperatura A: 25.83
+Temperatura B: 26.38
+Voltaje: 3.39
+Corriente: 1.565
+Temperatura A: 26.01
+Temperatura B: 26.42
+Voltaje: 3.39
+Corriente: 1.558
+Temperatura A: 25.88
+Temperatura B: 26.52
+Voltaje: 3.39
+Corriente: 1.575
+Temperatura A: 26.00
+Temperatura B: 26.43
+Voltaje: 3.39
+Corriente: 1.567
+Temperatura A: 25.89
+Temperatura B: 26.44
+Voltaje: 3.38
+Corriente: 1.564
+Temperatura A: 25.89
+Temperatura B: 26.52
+Voltaje: 3.38
+Corriente: 1.564
+Temperatura A: 25.84
+Temperatura B: 26.32
+Voltaje: 3.38
+Corriente: 1.552
+Temperatura A: 25.90
+Temperatura B: 26.45
+Voltaje: 3.38
+Corriente: 1.558
+Temperatura A: 25.92
+Temperatura B: 26.43
+Voltaje: 3.38
+Corriente: 1.547
+Temperatura A: 25.70
+Temperatura B: 26.38
+Voltaje: 3.38
+Corriente: 1.567
+Temperatura A: 25.75
+Temperatura B: 26.29
+Voltaje: 3.38
+Corriente: 1.577
+Temperatura A: 25.80
+Temperatura B: 26.32
+Voltaje: 3.38
+Corriente: 1.556
+Temperatura A: 25.83
+Temperatura B: 26.36
+Voltaje: 3.38
+Corriente: 1.562
+Temperatura A: 25.78
+Temperatura B: 26.35
+Voltaje: 3.38
+Corriente: 1.574
+Temperatura A: 25.86
+Temperatura B: 26.46
+Voltaje: 3.38
+Corriente: 1.550
+Temperatura A: 25.82
+Temperatura B: 26.48
+Voltaje: 3.38
+Corriente: 1.551
+Temperatura A: 25.87
+Temperatura B: 26.33
+Voltaje: 3.38
+Corriente: 1.556
+Temperatura A: 25.85
+Temperatura B: 26.32
+Voltaje: 3.38
+Corriente: 1.561
+Temperatura A: 25.92
+Temperatura B: 26.39
+Voltaje: 3.38
+Corriente: 1.566
+Temperatura A: 25.87
+Temperatura B: 26.41
+Voltaje: 3.38
+Corriente: 1.567
+Temperatura A: 25.79
+Temperatura B: 26.24
+Voltaje: 3.38
+Corriente: 1.573
+Temperatura A: 25.86
+Temperatura B: 26.43
+Voltaje: 3.38
+Corriente: 1.569
+Temperatura A: 25.87
+Temperatura B: 26.39
+Voltaje: 3.38
+Corriente: 1.561
+Temperatura A: 25.87
+Temperatura B: 26.37
+Voltaje: 3.38
+Corriente: 1.561
+Temperatura A: 25.81
+Temperatura B: 26.31
+Voltaje: 3.38
+Corriente: 1.564
+Temperatura A: 25.88
+Temperatura B: 26.31
+Voltaje: 3.37
+Corriente: 1.569
+Temperatura A: 25.84
+Temperatura B: 26.38
+Voltaje: 3.37
+Corriente: 1.570
+Temperatura A: 25.78
+Temperatura B: 26.23
+Voltaje: 3.38
+Corriente: 1.559
+Temperatura A: 25.76
+Temperatura B: 26.28
+Voltaje: 3.37
+Corriente: 1.567
+Temperatura A: 25.73
+Temperatura B: 26.44
+Voltaje: 3.37
+Corriente: 1.575
+Temperatura A: 25.76
+Temperatura B: 26.39
+Voltaje: 3.37
+Corriente: 1.561
+Temperatura A: 25.73
+Temperatura B: 26.31
+Voltaje: 3.37
+Corriente: 1.555
+Temperatura A: 25.74
+Temperatura B: 26.44
+Voltaje: 3.37
+Corriente: 1.567
+Temperatura A: 25.89
+Temperatura B: 26.41
+Voltaje: 3.37
+Corriente: 1.560
+Temperatura A: 25.70
+Temperatura B: 26.41
+Voltaje: 3.37
+Corriente: 1.559
+Temperatura A: 25.95
+Temperatura B: 26.34
+Voltaje: 3.37
+Corriente: 1.564
+Temperatura A: 25.70
+Temperatura B: 26.36
+Voltaje: 3.37
+Corriente: 1.566
+Temperatura A: 25.76
+Temperatura B: 26.30
+Voltaje: 3.37
+Corriente: 1.561
+Temperatura A: 25.81
+Temperatura B: 26.23
+Voltaje: 3.37
+Corriente: 1.566
+Temperatura A: 25.84
+Temperatura B: 26.38
+Voltaje: 3.37
+Corriente: 1.559
+Temperatura A: 25.74
+Temperatura B: 26.34
+Voltaje: 3.37
+Corriente: 1.581
+Temperatura A: 25.86
+Temperatura B: 26.31
+Voltaje: 3.37
+Corriente: 1.554
+Temperatura A: 25.78
+Temperatura B: 26.46
+Voltaje: 3.37
+Corriente: 1.553
+Temperatura A: 25.81
+Temperatura B: 26.35
+Voltaje: 3.37
+Corriente: 1.579
+Temperatura A: 25.80
+Temperatura B: 26.27
+Voltaje: 3.37
+Corriente: 1.562
+Temperatura A: 25.87
+Temperatura B: 26.37
+Voltaje: 3.37
+Corriente: 1.572
+Temperatura A: 25.87
+Temperatura B: 26.37
+Voltaje: 3.37
+Corriente: 1.570
+Temperatura A: 25.83
+Temperatura B: 26.36
+Voltaje: 3.37
+Corriente: 1.556
+Temperatura A: 25.94
+Temperatura B: 26.38
+Voltaje: 3.36
+Corriente: 1.561
+Temperatura A: 25.92
+Temperatura B: 26.41
+Voltaje: 3.36
+Corriente: 1.560
+Temperatura A: 25.88
+Temperatura B: 26.50
+Voltaje: 3.36
+Corriente: 1.566
+Temperatura A: 26.06
+Temperatura B: 26.49
+Voltaje: 3.36
+Corriente: 1.565
+Temperatura A: 25.66
+Temperatura B: 26.37
+Voltaje: 3.36
+Corriente: 1.565
+Temperatura A: 25.74
+Temperatura B: 26.34
+Voltaje: 3.36
+Corriente: 1.551
+Temperatura A: 25.83
+Temperatura B: 26.38
+Voltaje: 3.36
+Corriente: 1.553
+Temperatura A: 25.81
+Temperatura B: 26.30
+Voltaje: 3.36
+Corriente: 1.566
+Temperatura A: 25.96
+Temperatura B: 26.34
+Voltaje: 3.36
+Corriente: 1.549
+Temperatura A: 25.92
+Temperatura B: 26.48
+Voltaje: 3.36
+Corriente: 1.556
+Temperatura A: 25.96
+Temperatura B: 26.41
+Voltaje: 3.36
+Corriente: 1.567
+Temperatura A: 26.02
+Temperatura B: 26.48
+Voltaje: 3.36
+Corriente: 1.557
+Temperatura A: 25.91
+Temperatura B: 26.38
+Voltaje: 3.36
+Corriente: 1.563
+Temperatura A: 25.94
+Temperatura B: 26.46
+Voltaje: 3.36
+Corriente: 1.565
+Temperatura A: 25.92
+Temperatura B: 26.44
+Voltaje: 3.36
+Corriente: 1.554
+Temperatura A: 25.89
+Temperatura B: 26.26
+Voltaje: 3.36
+Corriente: 1.567
+Temperatura A: 26.09
+Temperatura B: 25.88
+Voltaje: 3.36
+Corriente: 1.567
+Temperatura A: 26.07
+Temperatura B: 26.41
+Voltaje: 3.36
+Corriente: 1.554
+Temperatura A: 25.92
+Temperatura B: 26.49
+Voltaje: 3.36
+Corriente: 1.556
+Temperatura A: 25.72
+Temperatura B: 26.17
+Voltaje: 3.36
+Corriente: 1.551
+Temperatura A: 25.70
+Temperatura B: 26.29
+Voltaje: 3.36
+Corriente: 1.560
+Temperatura A: 25.72
+Temperatura B: 26.29
+Voltaje: 3.36
+Corriente: 1.562
+Temperatura A: 25.97
+Temperatura B: 26.48
+Voltaje: 3.36
+Corriente: 1.552
+Temperatura A: 25.82
+Temperatura B: 26.30
+Voltaje: 3.36
+Corriente: 1.545
+Temperatura A: 25.80
+Temperatura B: 26.35
+Voltaje: 3.36
+Corriente: 1.552
+Temperatura A: 25.89
+Temperatura B: 26.35
+Voltaje: 3.35
+Corriente: 1.565
+Temperatura A: 25.74
+Temperatura B: 26.29
+Voltaje: 3.35
+Corriente: 1.556
+Temperatura A: 25.90
+Temperatura B: 26.46
+Voltaje: 3.35
+Corriente: 1.574
+Temperatura A: 25.77
+Temperatura B: 26.27
+Voltaje: 3.35
+Corriente: 1.568
+Temperatura A: 25.69
+Temperatura B: 26.36
+Voltaje: 3.35
+Corriente: 1.561
+Temperatura A: 25.67
+Temperatura B: 26.42
+Voltaje: 3.35
+Corriente: 1.563
+Temperatura A: 25.82
+Temperatura B: 26.36
+Voltaje: 3.35
+Corriente: 1.553
+Temperatura A: 25.77
+Temperatura B: 26.42
+Voltaje: 3.35
+Corriente: 1.559
+Temperatura A: 25.93
+Temperatura B: 26.41
+Voltaje: 3.35
+Corriente: 1.563
+Temperatura A: 25.89
+Temperatura B: 26.48
+Voltaje: 3.35
+Corriente: 1.549
+Temperatura A: 25.74
+Temperatura B: 26.30
+Voltaje: 3.35
+Corriente: 1.571
+Temperatura A: 25.71
+Temperatura B: 26.41
+Voltaje: 3.35
+Corriente: 1.554
+Temperatura A: 25.68
+Temperatura B: 26.34
+Voltaje: 3.35
+Corriente: 1.561
+Temperatura A: 25.76
+Temperatura B: 26.37
+Voltaje: 3.35
+Corriente: 1.573
+Temperatura A: 25.77
+Temperatura B: 26.44
+Voltaje: 3.35
+Corriente: 1.567
+Temperatura A: 25.80
+Temperatura B: 26.38
+Voltaje: 3.35
+Corriente: 1.551
+Temperatura A: 25.76
+Temperatura B: 26.30
+Voltaje: 3.35
+Corriente: 1.549
+Temperatura A: 25.76
+Temperatura B: 26.47
+Voltaje: 3.35
+Corriente: 1.560
+Temperatura A: 25.72
+Temperatura B: 26.42
+Voltaje: 3.35
+Corriente: 1.552
+Temperatura A: 25.74
+Temperatura B: 26.39
+Voltaje: 3.35
+Corriente: 1.564
+Temperatura A: 25.74
+Temperatura B: 26.40
+Voltaje: 3.35
+Corriente: 1.573
+Temperatura A: 25.97
+Temperatura B: 26.41
+Voltaje: 3.35
+Corriente: 1.546
+Temperatura A: 25.88
+Temperatura B: 26.34
+Voltaje: 3.35
+Corriente: 1.567
+Temperatura A: 25.85
+Temperatura B: 26.29
+Voltaje: 3.34
+Corriente: 1.540
+Temperatura A: 25.38
+Temperatura B: 26.30
+Voltaje: 3.34
+Corriente: 1.560
+Temperatura A: 26.04
+Temperatura B: 26.35
+Voltaje: 3.34
+Corriente: 1.549
+Temperatura A: 25.91
+Temperatura B: 26.38
+Voltaje: 3.34
+Corriente: 1.559
+Temperatura A: 25.80
+Temperatura B: 26.39
+Voltaje: 3.34
+Corriente: 1.557
+Temperatura A: 25.78
+Temperatura B: 26.41
+Voltaje: 3.34
+Corriente: 1.557
+Temperatura A: 25.77
+Temperatura B: 26.32
+Voltaje: 3.34
+Corriente: 1.564
+Temperatura A: 25.77
+Temperatura B: 26.41
+Voltaje: 3.34
+Corriente: 1.556
+Temperatura A: 25.78
+Temperatura B: 26.45
+Voltaje: 3.34
+Corriente: 1.558
+Temperatura A: 25.80
+Temperatura B: 26.51
+Voltaje: 3.34
+Corriente: 1.560
+Temperatura A: 25.79
+Temperatura B: 26.52
+Voltaje: 3.34
+Corriente: 1.554
+Temperatura A: 25.42
+Temperatura B: 26.39
+Voltaje: 3.34
+Corriente: 1.557
+Temperatura A: 25.74
+Temperatura B: 26.52
+Voltaje: 3.34
+Corriente: 1.559
+Temperatura A: 25.87
+Temperatura B: 26.33
+Voltaje: 3.34
+Corriente: 1.563
+Temperatura A: 25.78
+Temperatura B: 26.39
+Voltaje: 3.34
+Corriente: 1.554
+Temperatura A: 25.73
+Temperatura B: 26.46
+Voltaje: 3.34
+Corriente: 1.556
+Temperatura A: 25.73
+Temperatura B: 26.40
+Voltaje: 3.34
+Corriente: 1.574
+Temperatura A: 25.75
+Temperatura B: 26.43
+Voltaje: 3.34
+Corriente: 1.551
+Temperatura A: 25.89
+Temperatura B: 26.40
+Voltaje: 3.34
+Corriente: 1.556
+Temperatura A: 26.00
+Temperatura B: 26.45
+Voltaje: 3.34
+Corriente: 1.551
+Temperatura A: 25.95
+Temperatura B: 26.45
+Voltaje: 3.34
+Corriente: 1.569
+Temperatura A: 25.59
+Temperatura B: 26.52
+Voltaje: 3.34
+Corriente: 1.551
+Temperatura A: 25.99
+Temperatura B: 26.41
+Voltaje: 3.33
+Corriente: 1.549
+Temperatura A: 25.87
+Temperatura B: 26.31
+Voltaje: 3.33
+Corriente: 1.554
+Temperatura A: 25.95
+Temperatura B: 26.37
+Voltaje: 3.33
+Corriente: 1.558
+Temperatura A: 25.97
+Temperatura B: 26.44
+Voltaje: 3.33
+Corriente: 1.555
+Temperatura A: 25.97
+Temperatura B: 26.39
+Voltaje: 3.33
+Corriente: 1.563
+Temperatura A: 25.98
+Temperatura B: 26.53
+Voltaje: 3.33
+Corriente: 1.561
+Temperatura A: 25.87
+Temperatura B: 26.41
+Voltaje: 3.33
+Corriente: 1.560
+Temperatura A: 25.80
+Temperatura B: 26.51
+Voltaje: 3.33
+Corriente: 1.559
+Temperatura A: 25.88
+Temperatura B: 26.50
+Voltaje: 3.33
+Corriente: 1.551
+Temperatura A: 25.83
+Temperatura B: 26.43
+Voltaje: 3.33
+Corriente: 1.550
+Temperatura A: 25.94
+Temperatura B: 26.57
+Voltaje: 3.33
+Corriente: 1.561
+Temperatura A: 25.96
+Temperatura B: 26.43
+Voltaje: 3.33
+Corriente: 1.551
+Temperatura A: 25.84
+Temperatura B: 26.44
+Voltaje: 3.33
+Corriente: 1.556
+Temperatura A: 25.93
+Temperatura B: 26.57
+Voltaje: 3.33
+Corriente: 1.557
+Temperatura A: 25.84
+Temperatura B: 26.45
+Voltaje: 3.33
+Corriente: 1.559
+Temperatura A: 26.04
+Temperatura B: 26.57
+Voltaje: 3.33
+Corriente: 1.566
+Temperatura A: 25.95
+Temperatura B: 26.47
+Voltaje: 3.33
+Corriente: 1.560
+Temperatura A: 25.81
+Temperatura B: 26.54
+Voltaje: 3.33
+Corriente: 1.563
+Temperatura A: 25.89
+Temperatura B: 26.46
+Voltaje: 3.33
+Corriente: 1.551
+Temperatura A: 25.72
+Temperatura B: 26.39
+Voltaje: 3.33
+Corriente: 1.558
+Temperatura A: 25.85
+Temperatura B: 26.46
+Voltaje: 3.33
+Corriente: 1.556
+Temperatura A: 25.85
+Temperatura B: 26.48
+Voltaje: 3.33
+Corriente: 1.561
+Temperatura A: 25.79
+Temperatura B: 26.57
+Voltaje: 3.33
+Corriente: 1.556
+Temperatura A: 26.00
+Temperatura B: 26.44
+Voltaje: 3.32
+Corriente: 1.559
+Temperatura A: 26.01
+Temperatura B: 26.40
+Voltaje: 3.32
+Corriente: 1.556
+Temperatura A: 25.92
+Temperatura B: 26.54
+Voltaje: 3.32
+Corriente: 1.557
+Temperatura A: 25.85
+Temperatura B: 26.37
+Voltaje: 3.32
+Corriente: 1.537
+Temperatura A: 25.93
+Temperatura B: 26.43
+Voltaje: 3.32
+Corriente: 1.547
+Temperatura A: 25.89
+Temperatura B: 26.46
+Voltaje: 3.32
+Corriente: 1.560
+Temperatura A: 25.97
+Temperatura B: 26.43
+Voltaje: 3.32
+Corriente: 1.567
+Temperatura A: 25.97
+Temperatura B: 26.48
+Voltaje: 3.32
+Corriente: 1.556
+Temperatura A: 25.94
+Temperatura B: 26.55
+Voltaje: 3.32
+Corriente: 1.563
+Temperatura A: 25.95
+Temperatura B: 26.52
+Voltaje: 3.32
+Corriente: 1.556
+Temperatura A: 25.92
+Temperatura B: 26.71
+Voltaje: 3.32
+Corriente: 1.561
+Temperatura A: 26.10
+Temperatura B: 26.58
+Voltaje: 3.32
+Corriente: 1.556
+Temperatura A: 25.94
+Temperatura B: 26.52
+Voltaje: 3.32
+Corriente: 1.545
+Temperatura A: 26.00
+Temperatura B: 26.49
+Voltaje: 3.32
+Corriente: 1.551
+Temperatura A: 25.97
+Temperatura B: 26.66
+Voltaje: 3.32
+Corriente: 1.556
+Temperatura A: 26.03
+Temperatura B: 26.49
+Voltaje: 3.32
+Corriente: 1.542
+Temperatura A: 25.88
+Temperatura B: 26.56
+Voltaje: 3.32
+Corriente: 1.556
+Temperatura A: 26.05
+Temperatura B: 26.52
+Voltaje: 3.32
+Corriente: 1.556
+Temperatura A: 25.98
+Temperatura B: 26.66
+Voltaje: 3.32
+Corriente: 1.551
+Temperatura A: 26.13
+Temperatura B: 26.64
+Voltaje: 3.32
+Corriente: 1.561
+Temperatura A: 26.07
+Temperatura B: 26.62
+Voltaje: 3.32
+Corriente: 1.553
+Temperatura A: 26.10
+Temperatura B: 26.61
+Voltaje: 3.32
+Corriente: 1.544
+Temperatura A: 26.10
+Temperatura B: 26.56
+Voltaje: 3.32
+Corriente: 1.552
+Temperatura A: 25.92
+Temperatura B: 26.62
+Voltaje: 3.32
+Corriente: 1.549
+Temperatura A: 25.89
+Temperatura B: 26.54
+Voltaje: 3.32
+Corriente: 1.549
+Temperatura A: 26.03
+Temperatura B: 26.67
+Voltaje: 3.31
+Corriente: 1.541
+Temperatura A: 26.05
+Temperatura B: 26.57
+Voltaje: 3.32
+Corriente: 1.551
+Temperatura A: 25.99
+Temperatura B: 26.63
+Voltaje: 3.31
+Corriente: 1.548
+Temperatura A: 26.13
+Temperatura B: 26.51
+Voltaje: 3.31
+Corriente: 1.554
+Temperatura A: 25.98
+Temperatura B: 26.63
+Voltaje: 3.31
+Corriente: 1.550
+Temperatura A: 26.06
+Temperatura B: 26.69
+Voltaje: 3.31
+Corriente: 1.548
+Temperatura A: 25.93
+Temperatura B: 26.51
+Voltaje: 3.31
+Corriente: 1.556
+Temperatura A: 26.22
+Temperatura B: 26.59
+Voltaje: 3.31
+Corriente: 1.549
+Temperatura A: 26.02
+Temperatura B: 26.66
+Voltaje: 3.31
+Corriente: 1.558
+Temperatura A: 26.21
+Temperatura B: 26.66
+Voltaje: 3.31
+Corriente: 1.547
+Temperatura A: 25.96
+Temperatura B: 26.72
+Voltaje: 3.31
+Corriente: 1.554
+Temperatura A: 25.89
+Temperatura B: 26.62
+Voltaje: 3.31
+Corriente: 1.557
+Temperatura A: 25.96
+Temperatura B: 26.66
+Voltaje: 3.31
+Corriente: 1.550
+Temperatura A: 26.00
+Temperatura B: 26.66
+Voltaje: 3.31
+Corriente: 1.556
+Temperatura A: 26.06
+Temperatura B: 26.59
+Voltaje: 3.31
+Corriente: 1.552
+Temperatura A: 26.06
+Temperatura B: 26.58
+Voltaje: 3.31
+Corriente: 1.557
+Temperatura A: 26.06
+Temperatura B: 26.58
+Voltaje: 3.31
+Corriente: 1.554
+Temperatura A: 26.18
+Temperatura B: 26.63
+Voltaje: 3.31
+Corriente: 1.554
+Temperatura A: 26.00
+Temperatura B: 26.67
+Voltaje: 3.31
+Corriente: 1.547
+Temperatura A: 26.05
+Temperatura B: 26.55
+Voltaje: 3.31
+Corriente: 1.545
+Temperatura A: 26.07
+Temperatura B: 26.70
+Voltaje: 3.31
+Corriente: 1.547
+Temperatura A: 26.06
+Temperatura B: 26.63
+Voltaje: 3.31
+Corriente: 1.554
+Temperatura A: 26.01
+Temperatura B: 26.75
+Voltaje: 3.31
+Corriente: 1.549
+Temperatura A: 26.01
+Temperatura B: 26.72
+Voltaje: 3.30
+Corriente: 1.556
+Temperatura A: 26.12
+Temperatura B: 26.63
+Voltaje: 3.30
+Corriente: 1.546
+Temperatura A: 26.03
+Temperatura B: 26.60
+Voltaje: 3.30
+Corriente: 1.556
+Temperatura A: 26.04
+Temperatura B: 26.76
+Voltaje: 3.30
+Corriente: 1.549
+Temperatura A: 26.20
+Temperatura B: 26.72
+Voltaje: 3.30
+Corriente: 1.558
+Temperatura A: 26.04
+Temperatura B: 26.74
+Voltaje: 3.30
+Corriente: 1.547
+Temperatura A: 26.09
+Temperatura B: 26.73
+Voltaje: 3.30
+Corriente: 1.537
+Temperatura A: 26.09
+Temperatura B: 26.73
+Voltaje: 3.30
+Corriente: 1.550
+Temperatura A: 26.21
+Temperatura B: 26.64
+Voltaje: 3.30
+Corriente: 1.546
+Temperatura A: 26.09
+Temperatura B: 26.45
+Voltaje: 3.30
+Corriente: 1.544
+Temperatura A: 26.33
+Temperatura B: 26.54
+Voltaje: 3.30
+Corriente: 1.553
+Temperatura A: 26.09
+Temperatura B: 26.58
+Voltaje: 3.30
+Corriente: 1.570
+Temperatura A: 26.16
+Temperatura B: 26.55
+Voltaje: 3.30
+Corriente: 1.552
+Temperatura A: 26.18
+Temperatura B: 26.69
+Voltaje: 3.30
+Corriente: 1.551
+Temperatura A: 26.28
+Temperatura B: 26.61
+Voltaje: 3.30
+Corriente: 1.549
+Temperatura A: 26.26
+Temperatura B: 26.72
+Voltaje: 3.30
+Corriente: 1.557
+Temperatura A: 26.40
+Temperatura B: 26.59
+Voltaje: 3.30
+Corriente: 1.545
+Temperatura A: 26.23
+Temperatura B: 26.61
+Voltaje: 3.30
+Corriente: 1.544
+Temperatura A: 26.24
+Temperatura B: 26.70
+Voltaje: 3.30
+Corriente: 1.556
+Temperatura A: 26.32
+Temperatura B: 26.78
+Voltaje: 3.30
+Corriente: 1.535
+Temperatura A: 26.30
+Temperatura B: 26.70
+Voltaje: 3.30
+Corriente: 1.546
+Temperatura A: 26.47
+Temperatura B: 26.70
+Voltaje: 3.30
+Corriente: 1.549
+Temperatura A: 26.32
+Temperatura B: 26.69
+Voltaje: 3.29
+Corriente: 1.552
+Temperatura A: 26.27
+Temperatura B: 26.52
+Voltaje: 3.29
+Corriente: 1.544
+Temperatura A: 26.30
+Temperatura B: 26.69
+Voltaje: 3.29
+Corriente: 1.544
+Temperatura A: 26.28
+Temperatura B: 26.60
+Voltaje: 3.29
+Corriente: 1.545
+Temperatura A: 26.36
+Temperatura B: 26.62
+Voltaje: 3.29
+Corriente: 1.556
+Temperatura A: 26.41
+Temperatura B: 26.72
+Voltaje: 3.29
+Corriente: 1.544
+Temperatura A: 26.34
+Temperatura B: 26.70
+Voltaje: 3.29
+Corriente: 1.541
+Temperatura A: 26.32
+Temperatura B: 26.59
+Voltaje: 3.29
+Corriente: 1.548
+Temperatura A: 26.31
+Temperatura B: 26.55
+Voltaje: 3.29
+Corriente: 1.561
+Temperatura A: 26.29
+Temperatura B: 26.72
+Voltaje: 3.29
+Corriente: 1.544
+Temperatura A: 26.24
+Temperatura B: 26.70
+Voltaje: 3.29
+Corriente: 1.545
+Temperatura A: 26.38
+Temperatura B: 26.68
+Voltaje: 3.29
+Corriente: 1.558
+Temperatura A: 26.19
+Temperatura B: 26.67
+Voltaje: 3.29
+Corriente: 1.549
+Temperatura A: 26.18
+Temperatura B: 26.59
+Voltaje: 3.29
+Corriente: 1.538
+Temperatura A: 26.40
+Temperatura B: 26.70
+Voltaje: 3.29
+Corriente: 1.537
+Temperatura A: 26.42
+Temperatura B: 26.64
+Voltaje: 3.29
+Corriente: 1.551
+Temperatura A: 26.37
+Temperatura B: 26.62
+Voltaje: 3.29
+Corriente: 1.561
+Temperatura A: 26.34
+Temperatura B: 26.65
+Voltaje: 3.29
+Corriente: 1.537
+Temperatura A: 26.22
+Temperatura B: 26.71
+Voltaje: 3.29
+Corriente: 1.551
+Temperatura A: 26.36
+Temperatura B: 26.68
+Voltaje: 3.29
+Corriente: 1.545
+Temperatura A: 26.41
+Temperatura B: 26.65
+Voltaje: 3.29
+Corriente: 1.547
+Temperatura A: 26.14
+Temperatura B: 26.82
+Voltaje: 3.29
+Corriente: 1.544
+Temperatura A: 26.11
+Temperatura B: 26.96
+Voltaje: 3.29
+Corriente: 1.549
+Temperatura A: 26.08
+Temperatura B: 26.81
+Voltaje: 3.28
+Corriente: 1.542
+Temperatura A: 26.27
+Temperatura B: 26.85
+Voltaje: 3.28
+Corriente: 1.549
+Temperatura A: 26.27
+Temperatura B: 26.90
+Voltaje: 3.28
+Corriente: 1.556
+Temperatura A: 26.21
+Temperatura B: 26.74
+Voltaje: 3.28
+Corriente: 1.546
+Temperatura A: 26.16
+Temperatura B: 26.67
+Voltaje: 3.28
+Corriente: 1.559
+Temperatura A: 26.19
+Temperatura B: 26.83
+Voltaje: 3.28
+Corriente: 1.531
+Temperatura A: 26.30
+Temperatura B: 26.74
+Voltaje: 3.28
+Corriente: 1.546
+Temperatura A: 26.11
+Temperatura B: 26.74
+Voltaje: 3.28
+Corriente: 1.533
+Temperatura A: 26.22
+Temperatura B: 26.70
+Voltaje: 3.28
+Corriente: 1.542
+Temperatura A: 26.30
+Temperatura B: 26.60
+Voltaje: 3.28
+Corriente: 1.537
+Temperatura A: 26.28
+Temperatura B: 26.67
+Voltaje: 3.28
+Corriente: 1.543
+Temperatura A: 26.27
+Temperatura B: 26.72
+Voltaje: 3.28
+Corriente: 1.551
+Temperatura A: 26.33
+Temperatura B: 26.79
+Voltaje: 3.28
+Corriente: 1.545
+Temperatura A: 26.30
+Temperatura B: 26.71
+Voltaje: 3.28
+Corriente: 1.542
+Temperatura A: 26.21
+Temperatura B: 26.75
+Voltaje: 3.28
+Corriente: 1.547
+Temperatura A: 26.21
+Temperatura B: 26.89
+Voltaje: 3.28
+Corriente: 1.547
+Temperatura A: 26.23
+Temperatura B: 26.73
+Voltaje: 3.28
+Corriente: 1.556
+Temperatura A: 26.25
+Temperatura B: 26.77
+Voltaje: 3.28
+Corriente: 1.539
+Temperatura A: 26.20
+Temperatura B: 26.75
+Voltaje: 3.28
+Corriente: 1.550
+Temperatura A: 26.23
+Temperatura B: 26.84
+Voltaje: 3.28
+Corriente: 1.550
+Temperatura A: 26.42
+Temperatura B: 26.63
+Voltaje: 3.28
+Corriente: 1.557
+Temperatura A: 26.19
+Temperatura B: 26.74
+Voltaje: 3.27
+Corriente: 1.546
+Temperatura A: 26.30
+Temperatura B: 26.88
+Voltaje: 3.28
+Corriente: 1.548
+Temperatura A: 26.38
+Temperatura B: 26.72
+Voltaje: 3.28
+Corriente: 1.535
+Temperatura A: 26.53
+Temperatura B: 26.82
+Voltaje: 3.27
+Corriente: 1.551
+Temperatura A: 26.41
+Temperatura B: 26.78
+Voltaje: 3.27
+Corriente: 1.550
+Temperatura A: 26.35
+Temperatura B: 26.67
+Voltaje: 3.27
+Corriente: 1.543
+Temperatura A: 26.43
+Temperatura B: 26.91
+Voltaje: 3.27
+Corriente: 1.548
+Temperatura A: 26.43
+Temperatura B: 26.80
+Voltaje: 3.27
+Corriente: 1.537
+Temperatura A: 26.46
+Temperatura B: 26.84
+Voltaje: 3.27
+Corriente: 1.544
+Temperatura A: 26.46
+Temperatura B: 26.85
+Voltaje: 3.27
+Corriente: 1.540
+Temperatura A: 26.48
+Temperatura B: 26.73
+Voltaje: 3.27
+Corriente: 1.548
+Temperatura A: 26.39
+Temperatura B: 26.74
+Voltaje: 3.27
+Corriente: 1.549
+Temperatura A: 26.36
+Temperatura B: 26.72
+Voltaje: 3.27
+Corriente: 1.562
+Temperatura A: 26.59
+Temperatura B: 26.86
+Voltaje: 3.27
+Corriente: 1.550
+Temperatura A: 26.57
+Temperatura B: 26.82
+Voltaje: 3.27
+Corriente: 1.554
+Temperatura A: 26.52
+Temperatura B: 26.86
+Voltaje: 3.27
+Corriente: 1.551
+Temperatura A: 26.48
+Temperatura B: 26.84
+Voltaje: 3.27
+Corriente: 1.546
+Temperatura A: 26.50
+Temperatura B: 26.80
+Voltaje: 3.27
+Corriente: 1.557
+Temperatura A: 26.38
+Temperatura B: 26.66
+Voltaje: 3.27
+Corriente: 1.547
+Temperatura A: 26.47
+Temperatura B: 26.75
+Voltaje: 3.27
+Corriente: 1.541
+Temperatura A: 26.56
+Temperatura B: 26.62
+Voltaje: 3.27
+Corriente: 1.543
+Temperatura A: 26.39
+Temperatura B: 26.84
+Voltaje: 3.27
+Corriente: 1.548
+Temperatura A: 26.45
+Temperatura B: 26.75
+Voltaje: 3.27
+Corriente: 1.544
+Temperatura A: 26.47
+Temperatura B: 26.86
+Voltaje: 3.27
+Corriente: 1.541
+Temperatura A: 26.52
+Temperatura B: 26.90
+Voltaje: 3.27
+Corriente: 1.543
+Temperatura A: 26.49
+Temperatura B: 26.85
+Voltaje: 3.27
+Corriente: 1.550
+Temperatura A: 26.47
+Temperatura B: 26.83
+Voltaje: 3.26
+Corriente: 1.548
+Temperatura A: 26.57
+Temperatura B: 26.81
+Voltaje: 3.27
+Corriente: 1.544
+Temperatura A: 26.52
+Temperatura B: 26.90
+Voltaje: 3.26
+Corriente: 1.530
+Temperatura A: 26.49
+Temperatura B: 26.72
+Voltaje: 3.26
+Corriente: 1.538
+Temperatura A: 26.42
+Temperatura B: 26.77
+Voltaje: 3.26
+Corriente: 1.546
+Temperatura A: 26.51
+Temperatura B: 26.78
+Voltaje: 3.26
+Corriente: 1.556
+Temperatura A: 26.44
+Temperatura B: 26.74
+Voltaje: 3.26
+Corriente: 1.537
+Temperatura A: 26.49
+Temperatura B: 26.72
+Voltaje: 3.26
+Corriente: 1.542
+Temperatura A: 26.48
+Temperatura B: 26.88
+Voltaje: 3.26
+Corriente: 1.549
+Temperatura A: 26.44
+Temperatura B: 26.84
+Voltaje: 3.26
+Corriente: 1.555
+Temperatura A: 26.41
+Temperatura B: 26.71
+Voltaje: 3.26
+Corriente: 1.540
+Temperatura A: 26.49
+Temperatura B: 26.78
+Voltaje: 3.26
+Corriente: 1.533
+Temperatura A: 26.50
+Temperatura B: 26.91
+Voltaje: 3.26
+Corriente: 1.545
+Temperatura A: 26.41
+Temperatura B: 26.72
+Voltaje: 3.26
+Corriente: 1.530
+Temperatura A: 26.52
+Temperatura B: 26.89
+Voltaje: 3.26
+Corriente: 1.535
+Temperatura A: 26.59
+Temperatura B: 26.82
+Voltaje: 3.26
+Corriente: 1.539
+Temperatura A: 26.50
+Temperatura B: 26.96
+Voltaje: 3.26
+Corriente: 1.545
+Temperatura A: 26.54
+Temperatura B: 26.85
+Voltaje: 3.26
+Corriente: 1.536
+Temperatura A: 26.46
+Temperatura B: 26.74
+Voltaje: 3.26
+Corriente: 1.543
+Temperatura A: 26.57
+Temperatura B: 26.82
+Voltaje: 3.26
+Corriente: 1.529
+Temperatura A: 26.56
+Temperatura B: 26.85
+Voltaje: 3.26
+Corriente: 1.522
+Temperatura A: 26.52
+Temperatura B: 26.84
+Voltaje: 3.26
+Corriente: 1.544
+Temperatura A: 26.52
+Temperatura B: 26.77
+Voltaje: 3.25
+Corriente: 1.542
+Temperatura A: 26.48
+Temperatura B: 26.87
+Voltaje: 3.25
+Corriente: 1.542
+Temperatura A: 26.45
+Temperatura B: 26.88
+Voltaje: 3.25
+Corriente: 1.529
+Temperatura A: 26.59
+Temperatura B: 26.92
+Voltaje: 3.25
+Corriente: 1.545
+Temperatura A: 26.52
+Temperatura B: 26.94
+Voltaje: 3.25
+Corriente: 1.554
+Temperatura A: 26.54
+Temperatura B: 26.95
+Voltaje: 3.25
+Corriente: 1.547
+Temperatura A: 26.64
+Temperatura B: 26.94
+Voltaje: 3.25
+Corriente: 1.545
+Temperatura A: 26.67
+Temperatura B: 26.79
+Voltaje: 3.25
+Corriente: 1.544
+Temperatura A: 26.56
+Temperatura B: 26.78
+Voltaje: 3.25
+Corriente: 1.540
+Temperatura A: 26.52
+Temperatura B: 26.89
+Voltaje: 3.25
+Corriente: 1.542
+Temperatura A: 26.58
+Temperatura B: 26.90
+Voltaje: 3.25
+Corriente: 1.544
+Temperatura A: 26.56
+Temperatura B: 26.78
+Voltaje: 3.25
+Corriente: 1.533
+Temperatura A: 26.51
+Temperatura B: 26.88
+Voltaje: 3.25
+Corriente: 1.530
+Temperatura A: 26.57
+Temperatura B: 26.84
+Voltaje: 3.25
+Corriente: 1.537
+Temperatura A: 26.69
+Temperatura B: 27.00
+Voltaje: 3.25
+Corriente: 1.535
+Temperatura A: 26.52
+Temperatura B: 26.83
+Voltaje: 3.25
+Corriente: 1.540
+Temperatura A: 26.54
+Temperatura B: 26.89
+Voltaje: 3.25
+Corriente: 1.543
+Temperatura A: 26.51
+Temperatura B: 26.78
+Voltaje: 3.25
+Corriente: 1.542
+Temperatura A: 26.55
+Temperatura B: 26.76
+Voltaje: 3.25
+Corriente: 1.542
+Temperatura A: 26.62
+Temperatura B: 26.94
+Voltaje: 3.25
+Corriente: 1.532
+Temperatura A: 26.37
+Temperatura B: 26.88
+Voltaje: 3.24
+Corriente: 1.533
+Temperatura A: 26.68
+Temperatura B: 26.94
+Voltaje: 3.24
+Corriente: 1.539
+Temperatura A: 26.54
+Temperatura B: 26.92
+Voltaje: 3.24
+Corriente: 1.545
+Temperatura A: 26.55
+Temperatura B: 26.79
+Voltaje: 3.24
+Corriente: 1.536
+Temperatura A: 26.54
+Temperatura B: 26.94
+Voltaje: 3.24
+Corriente: 1.545
+Temperatura A: 26.67
+Temperatura B: 26.93
+Voltaje: 3.24
+Corriente: 1.541
+Temperatura A: 26.58
+Temperatura B: 26.79
+Voltaje: 3.24
+Corriente: 1.535
+Temperatura A: 26.56
+Temperatura B: 26.87
+Voltaje: 3.24
+Corriente: 1.537
+Temperatura A: 26.64
+Temperatura B: 26.93
+Voltaje: 3.24
+Corriente: 1.533
+Temperatura A: 26.69
+Temperatura B: 27.06
+Voltaje: 3.24
+Corriente: 1.530
+Temperatura A: 26.59
+Temperatura B: 26.96
+Voltaje: 3.24
+Corriente: 1.535
+Temperatura A: 26.47
+Temperatura B: 26.93
+Voltaje: 3.24
+Corriente: 1.545
+Temperatura A: 26.64
+Temperatura B: 26.94
+Voltaje: 3.24
+Corriente: 1.542
+Temperatura A: 26.65
+Temperatura B: 26.97
+Voltaje: 3.24
+Corriente: 1.535
+Temperatura A: 26.64
+Temperatura B: 26.87
+Voltaje: 3.24
+Corriente: 1.542
+Temperatura A: 26.56
+Temperatura B: 26.92
+Voltaje: 3.24
+Corriente: 1.529
+Temperatura A: 26.64
+Temperatura B: 26.89
+Voltaje: 3.24
+Corriente: 1.544
+Temperatura A: 26.50
+Temperatura B: 26.94
+Voltaje: 3.24
+Corriente: 1.531
+Temperatura A: 26.59
+Temperatura B: 26.89
+Voltaje: 3.24
+Corriente: 1.540
+Temperatura A: 26.71
+Temperatura B: 26.96
+Voltaje: 3.23
+Corriente: 1.541
+Temperatura A: 26.66
+Temperatura B: 26.98
+Voltaje: 3.24
+Corriente: 1.528
+Temperatura A: 26.67
+Temperatura B: 26.86
+Voltaje: 3.23
+Corriente: 1.544
+Temperatura A: 26.61
+Temperatura B: 26.95
+Voltaje: 3.23
+Corriente: 1.543
+Temperatura A: 26.72
+Temperatura B: 26.99
+Voltaje: 3.23
+Corriente: 1.540
+Temperatura A: 26.57
+Temperatura B: 26.99
+Voltaje: 3.23
+Corriente: 1.528
+Temperatura A: 26.57
+Temperatura B: 26.96
+Voltaje: 3.23
+Corriente: 1.533
+Temperatura A: 26.60
+Temperatura B: 26.90
+Voltaje: 3.23
+Corriente: 1.546
+Temperatura A: 26.65
+Temperatura B: 26.97
+Voltaje: 3.23
+Corriente: 1.534
+Temperatura A: 26.61
+Temperatura B: 27.01
+Voltaje: 3.23
+Corriente: 1.544
+Temperatura A: 26.71
+Temperatura B: 26.87
+Voltaje: 3.23
+Corriente: 1.528
+Temperatura A: 26.61
+Temperatura B: 26.96
+Voltaje: 3.23
+Corriente: 1.539
+Temperatura A: 26.59
+Temperatura B: 26.91
+Voltaje: 3.23
+Corriente: 1.522
+Temperatura A: 26.71
+Temperatura B: 26.95
+Voltaje: 3.23
+Corriente: 1.546
+Temperatura A: 26.70
+Temperatura B: 26.97
+Voltaje: 3.23
+Corriente: 1.540
+Temperatura A: 26.61
+Temperatura B: 27.10
+Voltaje: 3.23
+Corriente: 1.528
+Temperatura A: 26.56
+Temperatura B: 26.94
+Voltaje: 3.23
+Corriente: 1.531
+Temperatura A: 26.62
+Temperatura B: 26.97
+Voltaje: 3.23
+Corriente: 1.536
+Temperatura A: 26.68
+Temperatura B: 26.88
+Voltaje: 3.23
+Corriente: 1.524
+Temperatura A: 26.78
+Temperatura B: 27.02
+Voltaje: 3.22
+Corriente: 1.525
+Temperatura A: 26.62
+Temperatura B: 26.90
+Voltaje: 3.22
+Corriente: 1.535
+Temperatura A: 26.57
+Temperatura B: 26.99
+Voltaje: 3.22
+Corriente: 1.545
+Temperatura A: 26.57
+Temperatura B: 27.05
+Voltaje: 3.22
+Corriente: 1.541
+Temperatura A: 26.73
+Temperatura B: 27.04
+Voltaje: 3.22
+Corriente: 1.533
+Temperatura A: 26.67
+Temperatura B: 26.98
+Voltaje: 3.22
+Corriente: 1.536
+Temperatura A: 26.59
+Temperatura B: 26.96
+Voltaje: 3.22
+Corriente: 1.542
+Temperatura A: 26.64
+Temperatura B: 27.04
+Voltaje: 3.22
+Corriente: 1.522
+Temperatura A: 26.81
+Temperatura B: 27.06
+Voltaje: 3.22
+Corriente: 1.538
+Temperatura A: 26.57
+Temperatura B: 26.99
+Voltaje: 3.22
+Corriente: 1.533
+Temperatura A: 26.70
+Temperatura B: 26.96
+Voltaje: 3.22
+Corriente: 1.528
+Temperatura A: 26.63
+Temperatura B: 27.03
+Voltaje: 3.22
+Corriente: 1.528
+Temperatura A: 26.68
+Temperatura B: 26.97
+Voltaje: 3.22
+Corriente: 1.533
+Temperatura A: 26.70
+Temperatura B: 27.02
+Voltaje: 3.22
+Corriente: 1.540
+Temperatura A: 26.70
+Temperatura B: 27.05
+Voltaje: 3.22
+Corriente: 1.537
+Temperatura A: 26.79
+Temperatura B: 27.06
+Voltaje: 3.22
+Corriente: 1.545
+Temperatura A: 26.60
+Temperatura B: 27.12
+Voltaje: 3.22
+Corriente: 1.544
+Temperatura A: 26.67
+Temperatura B: 27.15
+Voltaje: 3.22
+Corriente: 1.537
+Temperatura A: 26.69
+Temperatura B: 27.01
+Voltaje: 3.22
+Corriente: 1.542
+Temperatura A: 26.66
+Temperatura B: 27.12
+Voltaje: 3.21
+Corriente: 1.545
+Temperatura A: 26.77
+Temperatura B: 26.96
+Voltaje: 3.21
+Corriente: 1.549
+Temperatura A: 26.72
+Temperatura B: 27.00
+Voltaje: 3.21
+Corriente: 1.527
+Temperatura A: 26.77
+Temperatura B: 27.04
+Voltaje: 3.21
+Corriente: 1.535
+Temperatura A: 26.69
+Temperatura B: 27.07
+Voltaje: 3.21
+Corriente: 1.530
+Temperatura A: 26.80
+Temperatura B: 27.04
+Voltaje: 3.21
+Corriente: 1.534
+Temperatura A: 26.70
+Temperatura B: 26.95
+Voltaje: 3.21
+Corriente: 1.513
+Temperatura A: 26.80
+Temperatura B: 27.07
+Voltaje: 3.21
+Corriente: 1.542
+Temperatura A: 26.67
+Temperatura B: 27.10
+Voltaje: 3.21
+Corriente: 1.538
+Temperatura A: 26.62
+Temperatura B: 27.09
+Voltaje: 3.21
+Corriente: 1.542
+Temperatura A: 26.77
+Temperatura B: 26.98
+Voltaje: 3.21
+Corriente: 1.537
+Temperatura A: 26.61
+Temperatura B: 27.03
+Voltaje: 3.21
+Corriente: 1.528
+Temperatura A: 26.67
+Temperatura B: 26.91
+Voltaje: 3.21
+Corriente: 1.540
+Temperatura A: 26.78
+Temperatura B: 27.10
+Voltaje: 3.20
+Corriente: 1.524
+Temperatura A: 26.67
+Temperatura B: 26.98
+Voltaje: 3.20
+Corriente: 1.533
+Temperatura A: 26.72
+Temperatura B: 26.95
+Voltaje: 3.20
+Corriente: 1.522
+Temperatura A: 26.76
+Temperatura B: 26.95
+Voltaje: 3.20
+Corriente: 1.543
+Temperatura A: 26.63
+Temperatura B: 26.97
+Voltaje: 3.20
+Corriente: 1.521
+Temperatura A: 26.68
+Temperatura B: 27.08
+Voltaje: 3.20
+Corriente: 1.524
+Temperatura A: 26.73
+Temperatura B: 27.06
+Voltaje: 3.20
+Corriente: 1.530
+Temperatura A: 26.74
+Temperatura B: 27.06
+Voltaje: 3.20
+Corriente: 1.522
+Temperatura A: 26.81
+Temperatura B: 27.03
+Voltaje: 3.20
+Corriente: 1.528
+Temperatura A: 26.74
+Temperatura B: 27.05
+Voltaje: 3.20
+Corriente: 1.525
+Temperatura A: 26.64
+Temperatura B: 27.02
+Voltaje: 3.20
+Corriente: 1.521
+Temperatura A: 26.75
+Temperatura B: 27.10
+Voltaje: 3.20
+Corriente: 1.546
+Temperatura A: 26.72
+Temperatura B: 27.09
+Voltaje: 3.20
+Corriente: 1.528
+Temperatura A: 26.73
+Temperatura B: 27.06
+Voltaje: 3.20
+Corriente: 1.536
+Temperatura A: 26.81
+Temperatura B: 26.95
+Voltaje: 3.19
+Corriente: 1.530
+Temperatura A: 26.69
+Temperatura B: 27.04
+Voltaje: 3.19
+Corriente: 1.532
+Temperatura A: 26.88
+Temperatura B: 27.04
+Voltaje: 3.19
+Corriente: 1.526
+Temperatura A: 26.79
+Temperatura B: 27.05
+Voltaje: 3.19
+Corriente: 1.526
+Temperatura A: 26.59
+Temperatura B: 26.92
+Voltaje: 3.19
+Corriente: 1.531
+Temperatura A: 26.78
+Temperatura B: 27.04
+Voltaje: 3.19
+Corriente: 1.528
+Temperatura A: 26.71
+Temperatura B: 27.22
+Voltaje: 3.19
+Corriente: 1.535
+Temperatura A: 26.65
+Temperatura B: 27.15
+Voltaje: 3.19
+Corriente: 1.532
+Temperatura A: 26.72
+Temperatura B: 27.04
+Voltaje: 3.19
+Corriente: 1.522
+Temperatura A: 26.67
+Temperatura B: 27.14
+Voltaje: 3.19
+Corriente: 1.524
+Temperatura A: 26.81
+Temperatura B: 27.07
+Voltaje: 3.19
+Corriente: 1.520
+Temperatura A: 26.75
+Temperatura B: 27.04
+Voltaje: 3.19
+Corriente: 1.512
+Temperatura A: 26.76
+Temperatura B: 27.03
+Voltaje: 3.19
+Corriente: 1.517
+Temperatura A: 26.73
+Temperatura B: 27.09
+Voltaje: 3.19
+Corriente: 1.530
+Temperatura A: 26.85
+Temperatura B: 26.98
+Voltaje: 3.18
+Corriente: 1.536
+Temperatura A: 26.79
+Temperatura B: 27.07
+Voltaje: 3.18
+Corriente: 1.532
+Temperatura A: 26.79
+Temperatura B: 27.08
+Voltaje: 3.18
+Corriente: 1.533
+Temperatura A: 26.75
+Temperatura B: 27.15
+Voltaje: 3.18
+Corriente: 1.533
+Temperatura A: 26.83
+Temperatura B: 27.05
+Voltaje: 3.18
+Corriente: 1.530
+Temperatura A: 26.57
+Temperatura B: 27.12
+Voltaje: 3.18
+Corriente: 1.521
+Temperatura A: 26.69
+Temperatura B: 27.07
+Voltaje: 3.18
+Corriente: 1.513
+Temperatura A: 26.83
+Temperatura B: 27.10
+Voltaje: 3.18
+Corriente: 1.531
+Temperatura A: 26.89
+Temperatura B: 27.08
+Voltaje: 3.18
+Corriente: 1.528
+Temperatura A: 26.77
+Temperatura B: 27.11
+Voltaje: 3.18
+Corriente: 1.531
+Temperatura A: 26.81
+Temperatura B: 27.22
+Voltaje: 3.18
+Corriente: 1.524
+Temperatura A: 26.78
+Temperatura B: 27.14
+Voltaje: 3.18
+Corriente: 1.530
+Temperatura A: 26.74
+Temperatura B: 27.07
+Voltaje: 3.18
+Corriente: 1.527
+Temperatura A: 26.74
+Temperatura B: 27.08
+Voltaje: 3.17
+Corriente: 1.536
+Temperatura A: 26.76
+Temperatura B: 27.11
+Voltaje: 3.17
+Corriente: 1.527
+Temperatura A: 26.75
+Temperatura B: 27.06
+Voltaje: 3.17
+Corriente: 1.530
+Temperatura A: 26.69
+Temperatura B: 27.20
+Voltaje: 3.17
+Corriente: 1.531
+Temperatura A: 26.80
+Temperatura B: 27.13
+Voltaje: 3.17
+Corriente: 1.521
+Temperatura A: 26.75
+Temperatura B: 27.17
+Voltaje: 3.17
+Corriente: 1.535
+Temperatura A: 26.76
+Temperatura B: 27.16
+Voltaje: 3.17
+Corriente: 1.514
+Temperatura A: 26.78
+Temperatura B: 27.11
+Voltaje: 3.17
+Corriente: 1.524
+Temperatura A: 26.70
+Temperatura B: 27.09
+Voltaje: 3.17
+Corriente: 1.521
+Temperatura A: 26.87
+Temperatura B: 27.14
+Voltaje: 3.17
+Corriente: 1.532
+Temperatura A: 26.67
+Temperatura B: 27.11
+Voltaje: 3.17
+Corriente: 1.533
+Temperatura A: 26.75
+Temperatura B: 27.00
+Voltaje: 3.16
+Corriente: 1.528
+Temperatura A: 26.74
+Temperatura B: 27.16
+Voltaje: 3.16
+Corriente: 1.528
+Temperatura A: 26.76
+Temperatura B: 27.01
+Voltaje: 3.16
+Corriente: 1.519
+Temperatura A: 26.73
+Temperatura B: 27.05
+Voltaje: 3.16
+Corriente: 1.530
+Temperatura A: 26.78
+Temperatura B: 27.04
+Voltaje: 3.16
+Corriente: 1.529
+Temperatura A: 26.79
+Temperatura B: 27.25
+Voltaje: 3.16
+Corriente: 1.527
+Temperatura A: 26.74
+Temperatura B: 27.15
+Voltaje: 3.16
+Corriente: 1.519
+Temperatura A: 26.72
+Temperatura B: 27.17
+Voltaje: 3.16
+Corriente: 1.542
+Temperatura A: 26.75
+Temperatura B: 27.12
+Voltaje: 3.16
+Corriente: 1.528
+Temperatura A: 26.73
+Temperatura B: 27.01
+Voltaje: 3.16
+Corriente: 1.528
+Temperatura A: 26.73
+Temperatura B: 27.04
+Voltaje: 3.15
+Corriente: 1.514
+Temperatura A: 26.84
+Temperatura B: 26.98
+Voltaje: 3.15
+Corriente: 1.521
+Temperatura A: 26.70
+Temperatura B: 27.09
+Voltaje: 3.15
+Corriente: 1.520
+Temperatura A: 26.81
+Temperatura B: 27.07
+Voltaje: 3.15
+Corriente: 1.524
+Temperatura A: 26.82
+Temperatura B: 27.11
+Voltaje: 3.15
+Corriente: 1.520
+Temperatura A: 26.74
+Temperatura B: 27.12
+Voltaje: 3.15
+Corriente: 1.509
+Temperatura A: 26.86
+Temperatura B: 27.04
+Voltaje: 3.15
+Corriente: 1.526
+Temperatura A: 26.88
+Temperatura B: 27.16
+Voltaje: 3.15
+Corriente: 1.524
+Temperatura A: 26.77
+Temperatura B: 27.13
+Voltaje: 3.15
+Corriente: 1.527
+Temperatura A: 26.85
+Temperatura B: 27.09
+Voltaje: 3.15
+Corriente: 1.524
+Temperatura A: 26.72
+Temperatura B: 27.14
+Voltaje: 3.14
+Corriente: 1.521
+Temperatura A: 26.71
+Temperatura B: 27.02
+Voltaje: 3.14
+Corriente: 1.519
+Temperatura A: 26.78
+Temperatura B: 26.99
+Voltaje: 3.14
+Corriente: 1.530
+Temperatura A: 26.81
+Temperatura B: 27.04
+Voltaje: 3.14
+Corriente: 1.535
+Temperatura A: 26.76
+Temperatura B: 27.09
+Voltaje: 3.14
+Corriente: 1.519
+Temperatura A: 26.86
+Temperatura B: 27.06
+Voltaje: 3.14
+Corriente: 1.524
+Temperatura A: 26.81
+Temperatura B: 27.05
+Voltaje: 3.14
+Corriente: 1.525
+Temperatura A: 26.85
+Temperatura B: 27.21
+Voltaje: 3.13
+Corriente: 1.521
+Temperatura A: 26.88
+Temperatura B: 27.10
+Voltaje: 3.13
+Corriente: 1.517
+Temperatura A: 26.87
+Temperatura B: 27.12
+Voltaje: 3.13
+Corriente: 1.528
+Temperatura A: 26.75
+Temperatura B: 27.07
+Voltaje: 3.13
+Corriente: 1.520
+Temperatura A: 26.94
+Temperatura B: 27.14
+Voltaje: 3.13
+Corriente: 1.528
+Temperatura A: 26.71
+Temperatura B: 27.05
+Voltaje: 3.13
+Corriente: 1.528
+Temperatura A: 26.89
+Temperatura B: 27.14
+Voltaje: 3.13
+Corriente: 1.514
+Temperatura A: 26.96
+Temperatura B: 27.32
+Voltaje: 3.13
+Corriente: 1.517
+Temperatura A: 26.95
+Temperatura B: 27.38
+Voltaje: 3.13
+Corriente: 1.510
+Temperatura A: 27.03
+Temperatura B: 27.28
+Voltaje: 3.12
+Corriente: 1.520
+Temperatura A: 26.83
+Temperatura B: 27.34
+Voltaje: 3.12
+Corriente: 1.523
+Temperatura A: 27.07
+Temperatura B: 27.41
+Voltaje: 3.12
+Corriente: 1.530
+Temperatura A: 27.01
+Temperatura B: 27.42
+Voltaje: 3.12
+Corriente: 1.507
+Temperatura A: 27.04
+Temperatura B: 27.27
+Voltaje: 3.12
+Corriente: 1.516
+Temperatura A: 27.00
+Temperatura B: 27.32
+Voltaje: 3.12
+Corriente: 1.528
+Temperatura A: 26.93
+Temperatura B: 27.37
+Voltaje: 3.11
+Corriente: 1.515
+Temperatura A: 27.07
+Temperatura B: 27.38
+Voltaje: 3.11
+Corriente: 1.533
+Temperatura A: 27.03
+Temperatura B: 27.23
+Voltaje: 3.11
+Corriente: 1.526
+Temperatura A: 27.09
+Temperatura B: 27.25
+Voltaje: 3.11
+Corriente: 1.517
+Temperatura A: 27.06
+Temperatura B: 27.33
+Voltaje: 3.11
+Corriente: 1.519
+Temperatura A: 26.84
+Temperatura B: 27.21
+Voltaje: 3.11
+Corriente: 1.517
+Temperatura A: 26.94
+Temperatura B: 27.05
+Voltaje: 3.11
+Corriente: 1.515
+Temperatura A: 26.94
+Temperatura B: 27.15
+Voltaje: 3.10
+Corriente: 1.507
+Temperatura A: 27.01
+Temperatura B: 27.05
+Voltaje: 3.10
+Corriente: 1.509
+Temperatura A: 27.07
+Temperatura B: 27.25
+Voltaje: 3.10
+Corriente: 1.512
+Temperatura A: 27.16
+Temperatura B: 27.29
+Voltaje: 3.10
+Corriente: 1.516
+Temperatura A: 26.85
+Temperatura B: 27.06
+Voltaje: 3.10
+Corriente: 1.518
+Temperatura A: 27.00
+Temperatura B: 27.25
+Voltaje: 3.10
+Corriente: 1.507
+Temperatura A: 27.04
+Temperatura B: 27.23
+Voltaje: 3.09
+Corriente: 1.512
+Temperatura A: 26.96
+Temperatura B: 27.14
+Voltaje: 3.09
+Corriente: 1.506
+Temperatura A: 27.05
+Temperatura B: 27.28
+Voltaje: 3.09
+Corriente: 1.506
+Temperatura A: 26.81
+Temperatura B: 27.39
+Voltaje: 3.09
+Corriente: 1.514
+Temperatura A: 26.96
+Temperatura B: 27.28
+Voltaje: 3.09
+Corriente: 1.507
+Temperatura A: 26.87
+Temperatura B: 27.18
+Voltaje: 3.08
+Corriente: 1.514
+Temperatura A: 26.99
+Temperatura B: 27.30
+Voltaje: 3.08
+Corriente: 1.507
+Temperatura A: 27.00
+Temperatura B: 27.29
+Voltaje: 3.08
+Corriente: 1.505
+Temperatura A: 26.96
+Temperatura B: 27.21
+Voltaje: 3.08
+Corriente: 1.501
+Temperatura A: 27.05
+Temperatura B: 27.11
+Voltaje: 3.07
+Corriente: 1.503
+Temperatura A: 27.09
+Temperatura B: 27.29
+Voltaje: 3.07
+Corriente: 1.509
+Temperatura A: 26.97
+Temperatura B: 27.23
+Voltaje: 3.07
+Corriente: 1.513
+Temperatura A: 27.00
+Temperatura B: 27.23
+Voltaje: 3.07
+Corriente: 1.514
+Temperatura A: 26.90
+Temperatura B: 27.19
+Voltaje: 3.06
+Corriente: 1.499
+Temperatura A: 26.85
+Temperatura B: 27.18
+Voltaje: 3.06
+Corriente: 1.514
+Temperatura A: 26.98
+Temperatura B: 27.23
+Voltaje: 3.06
+Corriente: 1.508
+Temperatura A: 27.10
+Temperatura B: 27.28
+Voltaje: 3.06
+Corriente: 1.519
+Temperatura A: 26.93
+Temperatura B: 27.22
+Voltaje: 3.05
+Corriente: 1.499
+Temperatura A: 27.11
+Temperatura B: 27.18
+Voltaje: 3.05
+Corriente: 1.503
+Temperatura A: 27.10
+Temperatura B: 27.29
+Voltaje: 3.05
+Corriente: 1.506
+Temperatura A: 26.94
+Temperatura B: 27.23
+Voltaje: 3.04
+Corriente: 1.505
+Temperatura A: 27.16
+Temperatura B: 27.29
+Voltaje: 3.04
+Corriente: 1.497
+Temperatura A: 27.05
+Temperatura B: 26.99
+Voltaje: 3.04
+Corriente: 1.506
+Temperatura A: 26.98
+Temperatura B: 27.24
+Voltaje: 3.03
+Corriente: 1.494
+Temperatura A: 27.01
+Temperatura B: 27.39
+Voltaje: 3.03
+Corriente: 1.503
+Temperatura A: 27.07
+Temperatura B: 27.17
+Voltaje: 3.03
+Corriente: 1.499
+Temperatura A: 26.92
+Temperatura B: 27.17
+Voltaje: 3.02
+Corriente: 1.492
+Temperatura A: 27.14
+Temperatura B: 27.21
+Voltaje: 3.02
+Corriente: 1.499
+Temperatura A: 26.98
+Temperatura B: 27.26
+Voltaje: 3.01
+Corriente: 1.493
+Temperatura A: 27.02
+Temperatura B: 27.25
+Voltaje: 3.01
+Corriente: 1.492
+Temperatura A: 26.99
+Temperatura B: 27.38
+Voltaje: 3.01
+Corriente: 1.494
+Temperatura A: 26.96
+Temperatura B: 27.34
+Voltaje: 3.00
+Corriente: 1.495
+Temperatura A: 27.01
+Temperatura B: 27.21
+Voltaje: 3.00
+Corriente: 1.494
+Temperatura A: 27.20
+Temperatura B: 27.24
+Voltaje: 2.99
+Corriente: 1.484
+Temperatura A: 27.10
+Temperatura B: 27.22
+Voltaje: 2.99
+Corriente: 1.487
+Temperatura A: 27.02
+Temperatura B: 27.17
+Voltaje: 2.98
+Corriente: 1.494
+Temperatura A: 27.00
+Temperatura B: 27.13
+Voltaje: 2.98
+Corriente: 1.475
+Temperatura A: 27.13
+Temperatura B: 27.35
+Voltaje: 2.97
+Corriente: 1.480
+Temperatura A: 27.10
+Temperatura B: 27.22
+Voltaje: 2.97
+Corriente: 1.498
+Temperatura A: 27.11
+Temperatura B: 27.23
+Voltaje: 2.96
+Corriente: 1.495
+Temperatura A: 27.07
+Temperatura B: 27.25
+Voltaje: 2.96
+Corriente: 1.489
+Temperatura A: 27.09
+Temperatura B: 27.32
+Voltaje: 2.95
+Corriente: 1.485
+Temperatura A: 27.16
+Temperatura B: 27.32
+Voltaje: 2.95
+Corriente: 1.475
+Temperatura A: 27.09
+Temperatura B: 27.39
+Voltaje: 2.94
+Corriente: 1.475
+Temperatura A: 27.24
+Temperatura B: 27.39
+Voltaje: 2.93
+Corriente: 1.480
+Temperatura A: 27.02
+Temperatura B: 27.22
+Voltaje: 2.93
+Corriente: 1.478
+Temperatura A: 27.13
+Temperatura B: 27.37
+Voltaje: 2.92
+Corriente: 1.486
+Temperatura A: 27.11
+Temperatura B: 27.27
+Voltaje: 2.91
+Corriente: 1.480
+Temperatura A: 27.26
+Temperatura B: 27.34
+Voltaje: 2.91
+Corriente: 1.469
+Temperatura A: 27.10
+Temperatura B: 27.09
+Voltaje: 2.90
+Corriente: 1.482
+Temperatura A: 27.13
+Temperatura B: 27.51
+Voltaje: 2.89
+Corriente: 1.475
+Temperatura A: 27.20
+Temperatura B: 27.32
+Voltaje: 2.89
+Corriente: 1.481
+Temperatura A: 27.05
+Temperatura B: 27.26
+Voltaje: 2.88
+Corriente: 1.466
+Temperatura A: 27.28
+Temperatura B: 27.31
+Voltaje: 2.87
+Corriente: 1.484
+Temperatura A: 27.04
+Temperatura B: 27.30
+Voltaje: 2.86
+Corriente: 1.463
+Temperatura A: 27.20
+Temperatura B: 27.40
+Voltaje: 2.85
+Corriente: 1.461
+Temperatura A: 27.20
+Temperatura B: 27.44
+Voltaje: 2.84
+Corriente: 1.456
+Temperatura A: 27.17
+Temperatura B: 27.52
+Voltaje: 2.84
+Corriente: 1.463
+Temperatura A: 27.39
+Temperatura B: 27.37
+Voltaje: 2.83
+Corriente: 1.452
+Temperatura A: 27.30
+Temperatura B: 27.39
+Voltaje: 2.82
+Corriente: 1.464
+Temperatura A: 27.18
+Temperatura B: 27.42
+Voltaje: 2.81
+Corriente: 1.456
+Temperatura A: 27.01
+Temperatura B: 27.39
+
