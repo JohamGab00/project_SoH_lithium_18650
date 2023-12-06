@@ -4513,6 +4513,6 @@ Temperatura B: 31.40
 Voltaje: 2.80
 Corriente: 1.401
 Temperatura A: 31.37
-Temperatura B: 31.48
+Temperatura B: 31.4
 
 
